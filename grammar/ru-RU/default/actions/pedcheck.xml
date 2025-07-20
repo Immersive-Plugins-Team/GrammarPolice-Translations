@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Action>
+    <Name>pedcheck</Name>
+    <Commands>
+        <string>запрос</string>
+    </Commands>
+    <Phrases>
+        <string>чек пешехода</string>        <!-- ped check -->
+        <string>проверка пешеходов</string>      <!-- pedestrian check -->
+        <string>десять двадцать девять</string>  <!-- ten twenty nine -->
+    </Phrases>
+    <Target>GrammarPolice.Actions.Computer.Pedcheck</Target>
+</Action>

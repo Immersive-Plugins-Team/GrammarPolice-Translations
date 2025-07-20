@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Action>
+    <Name>noose</Name>
+    <Commands>
+        <string>запрос</string>
+    </Commands>
+    <Phrases>
+        <string>подразделение NOOSE</string>       <!-- noose unit -->
+        <string>тактическая группа NOOSE</string>  <!-- noose tactical -->
+    </Phrases>
+    <Target>GrammarPolice.Actions.Backup.Noose</Target>
+</Action>

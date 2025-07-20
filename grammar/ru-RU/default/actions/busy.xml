@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Action>
+    <Name>busy</Name>
+    <Commands>
+        <string>статус</string>
+    </Commands>
+    <Phrases>
+        <string>занят</string>
+        <string>недоступен</string>
+        <string>десять шесть</string>  <!-- 10-6 = занят на вызове -->
+    </Phrases>
+    <Target>GrammarPolice.Actions.Status.Busy</Target>
+</Action>

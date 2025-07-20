@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Command>
+    <Name>priority_tone</Name>
+    <Action>priority_tone</Action>  <!-- системный идентификатор -->
+    <Phrases>
+        <string>сигнал сто</string>                 <!-- signal one hundred -->
+        <string>ситуация нормализована, сигнал 100</string>          <!-- clear signal one hundred -->
+        <string>прекратить сигнал 100</string>         <!-- cancel signal one hundred -->
+    </Phrases>
+</Command>

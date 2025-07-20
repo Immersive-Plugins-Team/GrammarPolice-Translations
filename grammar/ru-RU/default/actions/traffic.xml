@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Action>
+    <Name>traffic</Name>
+    <Commands>
+        <string>статус</string>
+    </Commands>
+    <Phrases>
+        <string>проверка на дороге</string>  <!-- on a traffic stop -->
+        <string>дорожный контроль</string>            <!-- on a stop -->
+        <string>одиннадцать сорок девять</string>  <!-- eleven forty nine -->
+    </Phrases>
+    <Target>GrammarPolice.Actions.Status.TrafficStop</Target>
+</Action>

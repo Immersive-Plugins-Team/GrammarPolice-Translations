@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Action>
+    <Name>code3state</Name>
+    <Commands>
+        <string>запрос</string>
+    </Commands>
+    <Phrases>
+        <string>подкрепление от штата</string>          <!-- state backup -->
+        <string>патрульный штата</string>               <!-- state trooper -->
+        <string>код три штат</string>                   <!-- code three state -->
+        <string>подкрепление код три штат</string>      <!-- code three state backup -->
+        <string>три штат</string>                       <!-- three state -->
+    </Phrases>
+    <Target>GrammarPolice.Actions.Backup.Code3State</Target>
+</Action>

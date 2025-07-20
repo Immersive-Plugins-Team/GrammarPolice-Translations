@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Command>
+    <Name>clear</Name>
+    <Action>clear</Action>  <!-- системный идентификатор -->
+    <Phrases>
+        <string>все чисто</string>    <!-- clear me -->
+        <string>код четыре</string>        <!-- code four -->
+    </Phrases>
+</Command>

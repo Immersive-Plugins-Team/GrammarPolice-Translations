@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Command>
+    <Name>copy</Name>
+    <Action>copy</Action>  <!-- системный идентификатор -->
+    <Phrases>
+        <string>принято</string>          <!-- copy -->
+        <string>десять четыре</string>    <!-- ten four -->
+    </Phrases>
+</Command>

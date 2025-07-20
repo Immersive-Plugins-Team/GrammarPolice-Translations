@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Action>
+    <Name>swat</Name>
+    <Commands>
+        <string>запрос</string>
+    </Commands>
+    <Phrases>
+        <string>группа SWAT</string>               <!-- swat unit -->
+        <string>тактическая группа</string>        <!-- tactical unit -->
+        <string>код десять</string>               <!-- code ten -->
+        <string>десять</string>                   <!-- ten -->
+    </Phrases>
+    <Target>GrammarPolice.Actions.Backup.Swat</Target>
+</Action>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Action>
+    <Name>investigating</Name>
+    <Commands>
+        <string>статус</string>
+    </Commands>
+    <Phrases>
+        <string>расследование</string>
+		<string>одиннадцать десять</string>
+    </Phrases>
+    <Target>GrammarPolice.Actions.Status.Investigating</Target>
+</Action>

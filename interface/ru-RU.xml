@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<interface>
+    <menu name="Уведомления">
+        <item name="Драка" action="fight" />
+        <item name="~b~11-46 ~s~Труп" action="person_deceased" />
+        <item name="~b~11-47 ~s~Пострадавший" action="person_injured" />
+        <item name="Подозреваемый задержан" action="suspect_custody" />
+        <item name="Подозреваемый скрылся" action="suspect_lost" />
+        <item name="Визуальный контакт с подозреваемым" action="visual" />
+    </menu>
+    <menu name="Поддержка">
+       <item name="~b~Код 2 ~s~Срочное подкрепление" action="code2" />
+       <item name="~b~Код 2 Штат ~s~Срочное подкрепление штата" action="code2state" />
+       <item name="~b~Код 3 ~s~Экстренное подкрепление" action="code3" />
+       <item name="~b~Код 3 Штат ~s~Экстренное подкрепление штата" action="code3state" />
+       <item name="~b~11-27 ~s~Остановка с риском" action="felonystopbackup" />
+       <item name="Женщина-офицер" action="female" />
+       <item name="NOOSE (Федералы)" action="noose" />
+       <item name="~b~Код 10 ~s~SWAT" action="swat" />
+       <item name="Подкрепление на остановке" action="trafficstopbackup" />
+    </menu>
+    <menu name="Взаимодействие">
+       <item name="Подтверждаю" action="yes" />
+       <item name="Отрицательно" action="no" />
+       <item name="Отменить проверки" action="cancel_checks" />
+       <item name="~b~10-17 ~s~Ситуация нормальная" action="normal" />
+    </menu>
+    <menu name="Преследование">
+       <item name="Воздушная поддержка" action="air" />
+       <item name="Разрешить PIT" action="pit" />
+       <item name="Перекрытие дороги" action="roadblock" />
+       <item name="Шипы на дороге" action="spikestrips" />
+    </menu>
+    <menu name="Запрос">
+       <item name="~b~11-13 ~s~Контроль за животными" action="animal" />
+       <item name="~b~11-44 ~s~Судмедэксперт" action="coroner" />
+       <item name="~b~11-41 ~s~Скорая помощь" action="ems" />
+       <item name="~b~11-71 ~s~Пожарная служба" action="fire" />
+       <item name="K9 Юнит (собака)" action="k9" />
+       <item name="~b~10-29 ~s~Проверка гражданина" action="pedcheck" />
+       <item name="~b~10-28 ~s~Проверка ТС" action="platecheck" />
+       <item name="Проверка связи" action="radiocheck" />
+       <item name="Номер штрафа" action="ticketnumber" />
+       <item name="~b~11-85 ~s~Эвакуатор" action="tow" />
+       <item name="~b~11-48 ~s~Транспортировка" action="transport" />
+       <item name="Страховка" action="insurance" />
+       <item name="Информация о ТС" action="vehicle" />
+    </menu>
+    <menu name="Статус">
+       <item name="~b~10-8 ~s~На патруле" action="available" />
+       <item name="~b~10-6 ~s~Занят" action="busy" />
+       <item name="~b~Код 4 ~s~Ситуация под контролем" action="code4" />
+       <item name="Преследование" action="pursuit" />
+       <item name="~b~11-10 ~s~Проверяю местность" action="investigating" />
+       <item name="~b~Код 7 ~s~Перерыв (еда)" action="mealbreak" />
+       <item name="На маршруте" action="onpatrol" />
+       <item name="~b~10-7 ~s~Вне службы" action="outofservice" />
+       <item name="~b~10-19 ~s~Возвращаюсь в участок" action="station" />
+       <item name="~b~10-97 ~s~Прибыл на место" action="scene" />
+       <item name="~b~11-49 ~s~Остановка транспорта" action="traffic" />
+    </menu>
+    <menu name="Движение">
+       <item name="~b~11-84 ~s~Замедлить движение" action="traffic_control_slow" />
+       <item name="~b~11-84 ~s~Остановить движение" action="traffic_control_stop" />
+       <item name="~b~11-84 ~s~Очистить дорогу" action="traffic_control_clear" />
+    </menu>
+</interface>

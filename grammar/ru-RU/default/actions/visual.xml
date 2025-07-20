@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Action>
+    <Name>visual</Name>
+    <Commands>
+        <string>доклад</string>  <!-- advisory -->
+    </Commands>
+    <Phrases>
+        <string>вижу цель</string>                     <!-- visual -->
+        <string>вижу подозреваемого</string>        <!-- suspect visual -->
+        <string>подозреваемый в поле зрения</string> <!-- suspect in sight -->
+        <string>в поле зрения</string>              <!-- in sight -->
+    </Phrases>
+    <Target>GrammarPolice.Actions.Advisory.Visual</Target>
+</Action>

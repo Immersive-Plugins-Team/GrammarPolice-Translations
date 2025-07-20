@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Command>
+    <Name>cancel_checks</Name>
+    <Action>cancel_checks</Action>  <!-- системный идентификатор -->
+    <Phrases>
+        <string>отмена</string>                     <!-- cancel -->
+        <string>ситуация под контролем, отмена</string>  <!-- situation normal cancel -->
+    </Phrases>
+</Command>

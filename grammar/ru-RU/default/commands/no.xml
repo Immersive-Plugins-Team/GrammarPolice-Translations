@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Command>
+    <Name>no</Name>
+    <Action>no</Action>
+    <Phrases>
+        <string>нет</string>
+        <string>отказ</string>
+        <string>отрицательно</string>
+    </Phrases>
+</Command>

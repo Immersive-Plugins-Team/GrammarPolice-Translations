@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Action>
+    <Name>traffic_control</Name>
+    <Commands>
+        <string>запрос</string>
+    </Commands>
+    <Phrases>
+        <string>контроль движения</string>  <!-- traffic control -->
+        <string>одиннадцать восемьдесят четыре</string>  <!-- eleven eighty four -->
+    </Phrases>
+    <Target>GrammarPolice.Actions.Traffic.Control</Target>
+</Action>

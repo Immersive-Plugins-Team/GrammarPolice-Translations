@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Action>
+    <Name>person_injured</Name>   
+    <Commands>
+        <string>уведомление</string>
+    </Commands>
+    <Phrases>
+        <string>ранен</string>
+        <string>подозреваемый ранен</string>
+        <string>гражданский ранен</string>
+        <string>человек ранен</string>
+        <string>подозреваемый на земле</string>
+        <string>гражданский на земле</string>
+        <string>пострадавший</string>
+        <string>одиннадцать сорок семь</string>
+    </Phrases>    
+    <Target>GrammarPolice.Actions.Advisory.PersonInjured</Target>
+</Action>

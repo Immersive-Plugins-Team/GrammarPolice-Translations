@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Command>
+    <Name>traffic_control_clear</Name>
+    <Action>traffic_control_clear</Action>
+    <Phrases>
+        <string>разрешить движение</string>
+        <string>очистить дорогу</string>
+        <string>снять ограничение движения</string>
+        <string>очистить одиннадцать восемьдесят четыре</string>
+    </Phrases>
+</Command>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Command>
+    <Name>accept</Name>
+    <Action>accept</Action>
+    <Phrases>
+        <string>еду</string>               <!-- en route -->
+        <string>проверю</string>             <!-- I'll check it out -->
+        <string>прибываю</string>            <!-- on my way -->
+        <string>реагирую</string>            <!-- responding -->
+    </Phrases>
+</Command>

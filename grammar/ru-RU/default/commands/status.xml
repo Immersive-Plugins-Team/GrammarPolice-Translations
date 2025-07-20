@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Command>
+    <Name>status</Name>
+    <Phrases>
+        <!-- Действия -->
+        <string>выдвигаюсь</string>              <!-- going / I'm going -->
+        <string>на месте</string>                <!-- I am -->
+        <string>следую</string>                  <!-- I am going -->
+        
+        <!-- Запрос информации -->
+        <string>отобразите мне</string>          <!-- show me -->
+        <string>отобразите нам</string>          <!-- show us -->
+        
+        <!-- Коды -->
+        <string>десять</string>                  <!-- ten -->
+        
+        <!-- Групповые статусы -->
+        <string>мы на месте</string>             <!-- we are -->
+        <string>мы выдвигаемся</string>          <!-- we are going -->
+    </Phrases>
+</Command>

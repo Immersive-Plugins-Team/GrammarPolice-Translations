@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Action>
+    <Name>fight</Name>
+    <Commands>
+        <string>уведомление</string>
+    </Commands>
+    <Phrases>
+        <string>драка в процессе</string>
+        <string>драка</string>
+    </Phrases>
+    <Target>GrammarPolice.Actions.Advisory.Fight</Target>
+</Action>

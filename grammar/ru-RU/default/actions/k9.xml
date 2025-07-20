@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Action>
+    <Name>k9</Name>
+    <Commands>
+        <string>запрос</string>
+    </Commands>
+    <Phrases>
+        <string>к-9</string>                     <!-- к 9 -->
+        <string>кинологическая группа</string>   <!-- kay nine unit -->
+    </Phrases>
+    <Target>GrammarPolice.Actions.Backup.K9</Target>
+</Action>

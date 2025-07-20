@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Action>
+    <Name>code3</Name>
+    <Commands>
+        <string>запрос</string>
+    </Commands>
+    <Phrases>
+        <string>дополнительное подкрепление</string>  <!-- additional backup -->
+        <string>дополнительные наряды</string>        <!-- additional units -->
+        <string>подкрепление</string>                <!-- backup -->
+        <string>код три</string>                     <!-- code three -->
+        <string>подкрепление код три</string>         <!-- code three backup -->
+        <string>три</string>                          <!-- three -->
+    </Phrases>
+    <Target>GrammarPolice.Actions.Backup.Code3</Target>
+</Action>

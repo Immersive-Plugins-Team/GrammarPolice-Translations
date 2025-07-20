@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Action>
+    <Name>platecheck</Name>
+    <Commands>
+        <string>запрос</string>
+    </Commands>
+    <Phrases>
+        <string>номерной знак</string>
+        <string>проверка номера</string>
+        <string>десять двадцать восемь</string>
+    </Phrases>
+    <Target>GrammarPolice.Actions.Computer.Platecheck</Target>
+</Action>

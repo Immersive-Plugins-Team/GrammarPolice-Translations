@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Action>
+    <Name>coroner</Name>
+    <Commands>
+        <string>запрос</string>
+    </Commands>
+    <Phrases>
+        <string>коронер</string>               <!-- coroner -->
+        <string>КСИ</string>                  <!-- C S I (русская аббревиатура) -->
+        <string>одиннадцать сорок четыре</string>  <!-- eleven forty four -->
+    </Phrases>
+    <Target>GrammarPolice.Actions.Backup.Coroner</Target>
+</Action>

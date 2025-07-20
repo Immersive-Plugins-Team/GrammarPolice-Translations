@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Action>
+    <Name>station</Name>
+    <Commands>
+        <string>статус</string>
+    </Commands>
+    <Phrases>
+        <string>возвращаюсь на станцию</string>       <!-- returning to station -->
+        <string>возвращаюсь с подозреваемым</string> <!-- returning with the suspect -->
+        <string>десять девятнадцать</string>         <!-- ten nineteen -->
+    </Phrases>
+    <Target>GrammarPolice.Actions.Status.ReturnToStation</Target>
+</Action>

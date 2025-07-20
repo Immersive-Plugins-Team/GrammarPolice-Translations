@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Action>
+    <Name>occupied_3</Name>   
+    <Commands>
+        <string>занято</string>
+    </Commands>
+    <Phrases>
+        <!-- Запрос дополнительных ресурсов -->
+        <string>занято один раз, запрашиваю поддержку</string>     <!-- occupied one times requesting additional -->
+        <string>занято два раза, запрашиваю поддержку</string>     <!-- occupied two times requesting additional -->
+        <string>занято три раза, запрашиваю поддержку</string>     <!-- occupied three times requesting additional -->
+        
+        <!-- Запрос экстренного подкрепления -->
+        <string>занято один раз, запрашиваю подкрепление</string>  <!-- occupied one times requesting backup -->
+        <string>занято два раза, запрашиваю подкрепление</string>  <!-- occupied two times requesting backup -->
+        <string>занято три раза, запрашиваю подкрепление</string>  <!-- occupied three times requesting backup -->
+        
+        <!-- Расширенный статус -->
+        <string>занято четыре раза</string>                         <!-- occupied four times -->
+    </Phrases>    
+    <Target>GrammarPolice.Actions.Status.TrafficStop</Target>
+    <Parameters>
+        <Parameter>
+            <Type>System.Int32</Type>
+            <Value>3</Value>
+        </Parameter>
+    </Parameters>
+</Action>

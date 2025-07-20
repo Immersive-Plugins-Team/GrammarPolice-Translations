@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Action>
+    <Name>animal</Name>
+    <Commands>
+        <string>запрос</string>
+    </Commands>
+    <Phrases>
+        <string>служба контроля животных</string>
+        <string>одиннадцать тринадцать</string>  
+    </Phrases>
+    <Target>GrammarPolice.Actions.Backup.Animal</Target>
+</Action>

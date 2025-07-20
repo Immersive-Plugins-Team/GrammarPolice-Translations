@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Action>
+    <Name>vehicle</Name>
+    <Commands>
+        <string>запрос</string>
+    </Commands>
+    <Phrases>
+        <string>автомобиль</string>          <!-- a car -->
+        <string>транспортное средство</string>  <!-- a vehicle -->
+        <string>транспорт</string>           <!-- a ride -->
+    </Phrases>
+    <Target>GrammarPolice.Actions.Backup.Vehicle</Target>
+</Action>

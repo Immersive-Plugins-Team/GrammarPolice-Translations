@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Action>
+    <Name>air</Name>
+    <Commands>
+        <string>запрос</string>
+    </Commands>
+    <Phrases>
+        <string>авиаподдержка</string>
+        <string>авиационное подразделение</string>
+    </Phrases>
+    <Target>GrammarPolice.Actions.Backup.Air</Target>
+</Action>

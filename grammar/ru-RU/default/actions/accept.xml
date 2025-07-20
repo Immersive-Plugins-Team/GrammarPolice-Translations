@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Action>
+    <Name>accept</Name>
+    <Commands>
+        <string>статус</string>  
+    </Commands>
+    <Phrases>
+        <string>в пути</string>          
+        <string>прибываю</string>        
+        <string>реагирую</string>        
+    </Phrases>
+    <Target>GrammarPolice.Actions.Callout.Accept</Target>
+</Action>

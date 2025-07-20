@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Command>
+    <Name>yes</Name>
+    <Action>yes</Action>
+    <Phrases>
+        <string>да</string>
+        <string>подтверждаю</string>
+        <string>принято</string>
+        <string>десять четыре</string>
+    </Phrases>
+</Command>

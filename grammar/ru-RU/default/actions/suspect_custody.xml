@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Action>
+    <Name>suspect_custody</Name>
+    <Commands>
+        <string>доклад</string>  <!-- advisory -->
+    </Commands>
+    <Phrases>
+        <string>под стражей</string>               <!-- in custody -->
+        <string>подозреваемый задержан</string>    <!-- suspect in custody -->
+        <string>подозреваемые задержаны</string>   <!-- suspects in custody -->
+        <string>удерживается</string>              <!-- detained -->
+        <string>подозреваемый задержан</string>    <!-- suspect detained -->
+        <string>подозреваемые задержаны</string>   <!-- suspects detained -->
+    </Phrases>
+    <Target>GrammarPolice.Actions.Advisory.SuspectCustody</Target>
+</Action>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Command>
+    <Name>occupied</Name>
+    <Phrases>
+        <!-- Групповые доклады -->
+        <string>у нас четырёхдверный</string>          <!-- we have a four door -->
+        <string>у нас двухдверный</string>             <!-- we have a two door -->
+        <string>у нас седан</string>                   <!-- we have a sedan -->
+        <string>у нас купе</string>                    <!-- we have a coupe -->
+        <string>у нас квадроцикл</string>              <!-- we have a quad bike -->
+        <string>у нас гольф-кар</string>               <!-- we have a golf cart -->
+        <string>у нас мотоцикл</string>                <!-- we have a motorcycle -->
+        <string>у нас велосипед</string>               <!-- we have a bike -->
+
+        <!-- Индивидуальные доклады -->
+        <string>у меня четырёхдверный</string>         <!-- i have a four door -->
+        <string>у меня двухдверный</string>            <!-- i have a two door -->
+        <string>у меня седан</string>                  <!-- i have a sedan -->
+        <string>у меня купе</string>                   <!-- i have a coupe -->
+        <string>у меня квадроцикл</string>             <!-- i have a quad bike -->
+        <string>у меня гольф-кар</string>              <!-- i have a golf cart -->
+        <string>у меня мотоцикл</string>               <!-- i have a motorcycle -->
+        <string>у меня велосипед</string>              <!-- i have a bike -->
+
+        <!-- Прогнозные формы -->
+        <string>это четырёхдверный</string>            <!-- its going to be a four door -->
+        <string>это двухдверный</string>               <!-- its going to be a two door -->
+        <string>это седан</string>                     <!-- its going to be a sedan -->
+        <string>это купе</string>                      <!-- its going to be a coupe -->
+        <string>это квадроцикл</string>                <!-- its going to be a quad bike -->
+        <string>это гольф-кар</string>                 <!-- its going to be a golf cart -->
+        <string>это мотоцикл</string>                  <!-- its going to be a motorcycle -->
+        <string>это велосипед</string>                 <!-- its going to be a bike -->
+    </Phrases>
+</Command>

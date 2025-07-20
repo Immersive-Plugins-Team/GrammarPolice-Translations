@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Action>
+    <Name>tow</Name>
+    <Commands>
+        <string>запрос</string>
+    </Commands>
+    <Phrases>
+        <string>эвакуатор</string>               <!-- tow -->
+        <string>служба эвакуации</string>    <!-- tow truck -->
+        <string>одиннадцать восемьдесят пять</string>  <!-- eleven eighty five -->
+    </Phrases>
+    <Target>GrammarPolice.Actions.Backup.Tow</Target>
+</Action>

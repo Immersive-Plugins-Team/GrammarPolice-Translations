@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Action>
+    <Name>occupied_1</Name>   
+    <Commands>
+        <string>занято</string>  <!-- occupied -->
+    </Commands>
+    <Phrases>
+        <string>занято один раз</string>     <!-- occupied one times -->
+        <string>занято два раза</string>     <!-- occupied two times -->
+        <string>занято три раза</string>     <!-- occupied three times -->
+    </Phrases>	
+    <Target>GrammarPolice.Actions.Status.TrafficStop</Target>
+    <Parameters>
+        <Parameter>
+            <Type>System.Int32</Type>
+            <Value>1</Value>
+        </Parameter>
+    </Parameters>
+</Action>

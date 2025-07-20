@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Action>
+    <Name>occupied_2</Name>   
+    <Commands>
+        <string>занято</string>
+    </Commands>
+    <Phrases>
+        <!-- Базовые статусы -->
+        <string>занято один раз, без дополнений</string>       <!-- occupied one times no additional -->
+        <string>занято два раза, без дополнений</string>       <!-- occupied two times no additional -->
+        <string>занято три раза, без дополнений</string>       <!-- occupied three times no additional -->
+        
+        <!-- Статусы с отказом в подкреплении -->
+        <string>занято один раз, без подкрепления</string>     <!-- occupied one times no backup -->
+        <string>занято два раза, без подкрепления</string>     <!-- occupied two times no backup -->
+        <string>занято три раза, без подкрепления</string>     <!-- occupied three times no backup -->
+    </Phrases>    
+    <Target>GrammarPolice.Actions.Status.TrafficStop</Target>
+    <Parameters>
+        <Parameter>
+            <Type>System.Int32</Type>
+            <Value>2</Value>
+        </Parameter>
+    </Parameters>
+</Action>

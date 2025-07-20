@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Command>
+    <Name>request</Name>
+    <Phrases>
+        <!-- Вежливые формы -->
+        <string>запросить</string>                <!-- can I get a -->
+        <string>код</string>                      <!-- code -->
+        
+        <!-- Индивидуальные запросы -->
+        <string>мне требуется</string>            <!-- I need -->
+        <string>мне нужен</string>                <!-- I need a -->
+        <string>мне нужно</string>                <!-- I need an -->
+        <string>мне требуется</string>            <!-- I need some -->
+        
+        <!-- Официальные формы -->
+        <string>запрос</string>                   <!-- request -->
+        <string>запрашиваю</string>               <!-- requesting -->
+        
+        <!-- Сленговые/оперативные -->
+        <string>передайте</string>               <!-- roll me -->
+        <string>вышлите</string>                  <!-- send -->
+        
+        <!-- Групповые запросы -->
+        <string>нам требуется</string>            <!-- we need -->
+    </Phrases>
+</Command>

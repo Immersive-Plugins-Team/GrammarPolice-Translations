@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Command>
+    <Name>normal</Name>
+    <Action>normal</Action>  <!-- системный идентификатор -->
+    <Phrases>
+        <string>ситуация под контролем</string>  <!-- situation normal -->
+        <string>всё в порядке</string>           <!-- I'm ok -->
+        <string>десять семнадцать</string>       <!-- ten seventeen -->
+    </Phrases>
+</Command>

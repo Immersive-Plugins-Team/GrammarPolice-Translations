@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Command>
+    <Name>taser</Name>
+    <Action>taser</Action>
+    <Phrases>
+        <string>тазер</string>
+		<string>применил тазер</string>
+		<string>был применен тазер</string>
+    </Phrases>
+</Command>

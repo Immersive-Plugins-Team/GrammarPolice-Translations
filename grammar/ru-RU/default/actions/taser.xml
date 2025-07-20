@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Action>
+    <Name>taser</Name>
+    <Target>GrammarPolice.Actions.Interactions.Taser</Target>
+</Action>

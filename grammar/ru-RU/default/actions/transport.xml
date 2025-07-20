@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Action>
+    <Name>transport</Name>
+    <Commands>
+        <string>запрос</string>
+    </Commands>
+    <Phrases>
+        <string>транспорт для задержанного</string>  <!-- prisoner transport -->
+        <string>транспортировка</string>             <!-- transport -->
+        <string>одиннадцать сорок восемь</string>     <!-- eleven forty eight -->
+    </Phrases>
+    <Target>GrammarPolice.Actions.Backup.Transport</Target>
+</Action>

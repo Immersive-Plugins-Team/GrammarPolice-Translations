@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Action>
+    <Name>onpatrol</Name>
+    <Commands>
+        <string>статус</string>
+    </Commands>
+    <Phrases>
+        <string>в патруле</string>
+    </Phrases>
+    <Target>GrammarPolice.Actions.Status.OnPatrol</Target>
+</Action>

@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Action>
+    <Name>ticketnumber</Name>
+    <Commands>
+        <string>запрос</string>
+    </Commands>
+    <Phrases>
+        <string>номер квитанции</string>       <!-- a ticket number -->
+        <string>номер протокола</string>        <!-- ticket number -->
+    </Phrases>
+    <Target>GrammarPolice.Actions.Interactions.TicketNumber</Target>
+</Action>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Command>
+    <Name>advisory</Name>
+    <Phrases>
+        <!-- Индивидуальные доклады -->
+        <string>у меня</string>                    <!-- I have -->
+        <string>у меня есть</string>               <!-- I have the/a/an -->
+        <string>у меня один</string>               <!-- I have one -->
+        <string>у меня два</string>                <!-- I have two -->
+        <string>у меня три</string>                <!-- I have three -->
+        <string>у меня четыре</string>             <!-- I have four -->
+
+        <!-- Групповые доклады -->
+        <string>у нас</string>                     <!-- we have -->
+        <string>у нас есть</string>                <!-- we have the/a/an -->
+        <string>у нас один</string>                <!-- we have one -->
+        <string>у нас два</string>                 <!-- we have two -->
+        <string>у нас три</string>                 <!-- we have three -->
+        <string>у нас четыре</string>              <!-- we have four -->
+
+        <!-- Статусы -->
+        <string>подозреваемый</string>             <!-- suspect is -->
+        <string>гражданин</string>                 <!-- civilian is -->
+    </Phrases>
+</Command>
