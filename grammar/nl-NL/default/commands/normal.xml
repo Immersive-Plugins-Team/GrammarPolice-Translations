@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Command>
+    <Name>normal</Name>
+    <Action>normal</Action>
+    <Phrases>
+        <string>situatie normaal</string>
+        <string>alles onder controle</string>
+        <string>geen bijzonderheden</string>
+        <string>ik ben oké</string>
+        <string>alles in orde</string>
+        <string>geen problemen</string>
+    </Phrases>
+</Command>

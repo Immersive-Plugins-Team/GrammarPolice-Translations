@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Command>
+    <Name>panic</Name>
+    <Action>panic</Action>
+    <Phrases>
+        <string>code negen negen</string>
+        <string>code 99</string>
+        <string>schoten gelost</string>
+        <string>schoten gehoord</string>
+        <string>paniekknop</string>
+        <string>noodknop</string>
+        <string>officier in nood</string>
+        <string>collega in nood</string>
+    </Phrases>
+</Command>

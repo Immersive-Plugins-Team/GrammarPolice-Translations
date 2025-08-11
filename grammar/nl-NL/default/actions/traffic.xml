@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Action>
+    <Name>traffic</Name>
+    <Commands>
+        <string>status</string>
+    </Commands>
+    <Phrases>
+        <string>bij een verkeerscontrole</string>
+        <string>bij een controle</string>
+        <string>bij een staandehouding</string>
+        <string>bij een verkeersstaandehouding</string>
+        <string>bij een verkeersstop</string>
+        <string>bij een verkeersactie</string>
+    </Phrases>
+    <Target>GrammarPolice.Actions.Status.TrafficStop</Target>
+</Action>

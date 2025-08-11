@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Action>
+    <Name>code2</Name>
+    <Commands>
+        <string>request</string>
+    </Commands>
+    <Phrases>
+
+        <string>twee</string>
+        <string>prioriteit twee</string>
+        <string>prioriteit 2</string>
+        <string>spoed</string>
+        <string>met spoed</string>
+        <string>dringend</string>
+        <string>urgentie</string>
+        <string>urgente backup</string>
+    </Phrases>
+    <Target>GrammarPolice.Actions.Backup.Code2</Target>
+</Action>

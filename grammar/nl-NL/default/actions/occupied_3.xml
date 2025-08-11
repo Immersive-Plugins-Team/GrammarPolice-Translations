@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Action>
+    <Name>occupied_3</Name>   
+    <Commands>
+        <string>occupied</string>
+    </Commands>
+    <Phrases>
+        <string>bezet door één persoon, verzoek om assistentie</string>
+        <string>bezet door twee personen, verzoek om assistentie</string>
+        <string>bezet door drie personen, verzoek om assistentie</string>
+        <string>bezet door één persoon, verzoek om backup</string>
+        <string>bezet door twee personen, verzoek om backup</string>
+        <string>bezet door drie personen, verzoek om backup</string>
+        <string>bezet door vier personen</string>
+        <string>één inzittende, assistentie gevraagd</string>
+        <string>twee inzittenden, assistentie gevraagd</string>
+        <string>drie inzittenden, assistentie gevraagd</string>
+        <string>één inzittende, backup gevraagd</string>
+        <string>twee inzittenden, backup gevraagd</string>
+        <string>drie inzittenden, backup gevraagd</string>
+        <string>vier inzittenden</string>
+    </Phrases>	
+    <Target>GrammarPolice.Actions.Status.TrafficStop</Target>
+    <Parameters>
+        <Parameter>
+            <Type>System.Int32</Type>
+            <Value>3</Value>
+        </Parameter>
+    </Parameters>
+</Action>

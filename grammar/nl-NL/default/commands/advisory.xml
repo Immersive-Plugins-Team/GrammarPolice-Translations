@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Command>
+    <Name>advisory</Name>
+    <Phrases>
+        <string>ik heb</string>
+        <string>ik heb de</string>
+        <string>ik heb een</string>
+        <string>ik heb één</string>
+        <string>ik heb twee</string>
+        <string>ik heb drie</string>
+        <string>ik heb vier</string>
+
+        <string>wij hebben</string>
+        <string>wij hebben de</string>
+        <string>wij hebben een</string>
+        <string>wij hebben één</string>
+        <string>wij hebben twee</string>
+        <string>wij hebben drie</string>
+        <string>wij hebben vier</string>
+
+        <string>verdachte is</string>
+        <string>de verdachte is</string>
+        <string>de burger is</string>
+        <string>burger is</string>
+        <string>persoon is</string>
+        <string>subject is</string>
+        <string>doelwit is</string>
+        <string>doelpersoon is</string>
+        <string>doel is</string>
+        <string>betrokkene is</string>
+        <string>de betrokkene is</string>
+    </Phrases>
+</Command>

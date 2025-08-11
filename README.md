@@ -42,7 +42,7 @@ If you get stuck, visit the [IPT Support Server](https://discord.gg/AuJCUag). Th
 | ja-JP  | Japanese (Japan)                             | ❌     |
 | ko-KR  | Korean (South Korea)                         | ❌     |
 | nb-NO  | Norwegian Bokmål (Norway)                    | ❌     |
-| nl-NL  | Dutch (Netherlands)                          | ❌     |
+| nl-NL  | Dutch (Netherlands)                          | ✅     |
 | pl-PL  | Polish (Poland)                              | ❌     |
 | pt-BR  | Portuguese (Brazil)                          | ❌     |
 | pt-PT  | Portuguese (Portugal)                        | ❌     |

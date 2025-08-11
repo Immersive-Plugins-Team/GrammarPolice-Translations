@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Action>
+    <Name>noose</Name>
+    <Commands>
+        <string>request</string>
+    </Commands>
+    <Phrases>
+        <string>marechaussee eenheid</string>
+        <string>marechaussee team</string>
+        <string>noodhulp eenheid</string>
+        <string>noodhulp team</string>
+        <string>noose eenheid</string>
+        <string>noose team</string>
+        <string>kmar eenheid</string>
+        <string>kmar team</string>
+    </Phrases>
+    <Target>GrammarPolice.Actions.Backup.Noose</Target>
+</Action>

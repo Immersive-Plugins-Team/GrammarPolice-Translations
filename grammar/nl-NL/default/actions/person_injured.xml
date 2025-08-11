@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Action>
+    <Name>person_injured</Name>   
+    <Commands>
+        <string>advisory</string>
+    </Commands>
+    <Phrases>
+		<string>neer</string>
+		<string>gewond</string>
+		<string>verdachte neer</string>
+		<string>persoon neer</string>
+		<string>burger neer</string>
+		<string>verdachte gewond</string>
+		<string>persoon gewond</string>
+		<string>burger gewond</string>
+		<string>verdachte ligt</string>
+		<string>persoon ligt</string>
+		<string>burger ligt</string>
+		<string>verdachte is neergeschoten</string>
+		<string>persoon is neergeschoten</string>
+		<string>burger is neergeschoten</string>
+		<string>verdachte is buiten bewustzijn</string>
+		<string>persoon is buiten bewustzijn</string>
+		<string>burger is buiten bewustzijn</string>
+		<string>verdachte is zwaargewond</string>
+		<string>persoon is zwaargewond</string>
+		<string>burger is zwaargewond</string>
+    </Phrases>	
+    <Target>GrammarPolice.Actions.Advisory.PersonInjured</Target>
+</Action>

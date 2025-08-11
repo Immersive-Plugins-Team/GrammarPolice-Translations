@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Action>
+    <Name>scene</Name>
+    <Commands>
+        <string>status</string>
+    </Commands>
+    <Phrases>
+        <string>ter plaatse</string>
+        <string>op locatie</string>
+        <string>aanwezig</string>
+        <string>op de scene</string>
+        <string>op de plaats delict</string>
+        <string>op de locatie</string>
+        <string>op de plek</string>
+    </Phrases>
+    <Target>GrammarPolice.Actions.Status.Scene</Target>
+</Action>

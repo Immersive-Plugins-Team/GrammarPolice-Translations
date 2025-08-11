@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Command>
+    <Name>occupied</Name>
+    <Phrases>
+    <string>we hebben een vierdeurs</string>
+    <string>we hebben een tweedurs</string>
+    <string>we hebben een sedan</string>
+    <string>we hebben een coupé</string>
+    <string>we hebben een quad</string>
+    <string>we hebben een golfkar</string>
+    <string>we hebben een motorfiets</string>
+    <string>we hebben een fiets</string>
+    <string>ik heb een vierdeurs</string>
+    <string>ik heb een tweedurs</string>
+    <string>ik heb een sedan</string>
+    <string>ik heb een coupé</string>
+    <string>ik heb een quad</string>
+    <string>ik heb een golfkar</string>
+    <string>ik heb een motorfiets</string>
+    <string>ik heb een fiets</string>
+    <string>het betreft een vierdeurs</string>
+    <string>het betreft een tweedurs</string>
+    <string>het betreft een sedan</string>
+    <string>het betreft een coupé</string>
+    <string>het betreft een quad</string>
+    <string>het betreft een golfkar</string>
+    <string>het betreft een motorfiets</string>
+    <string>het betreft een fiets</string>
+    <string>het voertuig betreft een personenauto</string>
+    <string>het voertuig betreft een bestelauto</string>
+    <string>het voertuig betreft een motorvoertuig</string>
+    <string>het voertuig betreft een tweewieler</string>
+    <string>het voertuig betreft een bromfiets</string>
+    <string>het voertuig betreft een scooter</string>
+    <string>het voertuig betreft een terreinwagen</string>
+    <string>het voertuig betreft een busje</string>
+    <string>het voertuig betreft een vrachtwagen</string>
+    <string>het voertuig betreft een quad</string>
+    <string>het voertuig betreft een cabriolet</string>
+    <string>het voertuig betreft een stationwagen</string>
+    <string>het voertuig betreft een hatchback</string>
+    <string>het voertuig betreft een SUV</string>
+</Command>

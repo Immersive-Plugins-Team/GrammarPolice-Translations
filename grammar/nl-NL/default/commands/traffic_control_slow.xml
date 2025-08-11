@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Command>
+    <Name>traffic_control_slow</Name>
+    <Action>traffic_control_slow</Action>
+    <Phrases>
+        <string>vertraag al het verkeer</string>
+        <string>vertraag nabij verkeer</string>
+        <string>vertraag het verkeer</string>
+        <string>verkeer langzamer</string>
+        <string>verkeer stapvoets</string>
+        <string>verkeer langzaam laten rijden</string>
+        <string>verkeer afremmen</string>
+        <string>verkeer vertragen</string>
+        <string>verkeer rustig aan</string>
+        <string>verkeer langzaam</string>
+    </Phrases>
+</Command>

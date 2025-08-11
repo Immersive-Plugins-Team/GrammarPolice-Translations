@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Action>
+    <Name>code3</Name>
+    <Commands>
+        <string>request</string>
+    </Commands>
+    <Phrases>
+        <string>extra eenheden</string>
+        <string>extra backup</string>
+        <string>hulpdiensten</string>
+        <string>ondersteuning</string>
+        <string>code drie</string>
+        <string>code drie backup</string>
+        <string>spoed</string>
+        <string>met spoed</string>
+        <string>assistentie met spoed</string>
+        <string>dringend backup</string>
+        <string>drie</string>
+        <string>prioriteit drie</string>
+        <string>met optische en geluidssignalen</string>
+    </Phrases>
+    <Target>GrammarPolice.Actions.Backup.Code3</Target>
+</Action>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Command>
+    <Name>officerdown</Name>
+    <Action>officerdown</Action>
+    <Phrases>
+        <string>agent neer</string>
+        <string>we hebben een agent neer</string>
+        <string>ik heb een agent neer</string>
+        <string>officier neer</string>
+        <string>collega neer</string>
+        <string>collega is neergeschoten</string>
+        <string>agent is neergeschoten</string>
+        <string>officier is neergeschoten</string>
+        <string>10-99</string>
+        <string>hulpdiensten ter plaatse, agent gewond</string>
+        <string>agent gewond</string>
+        <string>collega gewond</string>
+    </Phrases>
+</Command>

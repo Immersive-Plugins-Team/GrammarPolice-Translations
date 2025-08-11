@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Command>
+    <Name>clear</Name>
+    <Action>clear</Action>
+    <Phrases>
+        <string>maak vrij</string>
+        <string>status een</string>
+        <string>alles veilig</string>
+        <string>gebied schoon</string>
+        <string>geen dreiging meer</string>
+        <string>veilig verklaard</string>
+        <string>alles onder controle</string>
+        <string>einde melding</string>
+        <string>situatie opgelost</string>
+    </Phrases>
+</Command>

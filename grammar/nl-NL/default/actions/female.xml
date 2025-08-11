@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Action>
+    <Name>female</Name>
+    <Commands>
+        <string>request</string>
+    </Commands>
+    <Phrases>
+        <string>vrouwelijk</string>
+        <string>vrouwelijke agent</string>
+        <string>agente</string>
+        <string>mevrouw agent</string>
+        <string>dame van de politie</string>
+        <string>vrouwelijke collega</string>
+        <string>vrouwelijke politie</string>
+    </Phrases>
+    <Target>GrammarPolice.Actions.Backup.Female</Target>
+</Action>

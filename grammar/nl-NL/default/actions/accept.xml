@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Action>
+    <Name>accept</Name>
+    <Commands>
+        <string>status</string>
+    </Commands>
+    <Phrases>
+        <string>onderweg</string>
+        <string>ben onderweg</string>
+        <string>ik kom eraan</string>
+        <string>in aantocht</string>
+        <string>ik reageer</string>
+        <string>ik ga ter plaatse</string>
+        <string>ik ben ter plaatse</string>
+        <string>ik neem de melding aan</string>
+        <string>melding ontvangen</string>
+        <string>ik bevestig ontvangst</string>
+    </Phrases>
+    <Target>GrammarPolice.Actions.Callout.Accept</Target>
+</Action>

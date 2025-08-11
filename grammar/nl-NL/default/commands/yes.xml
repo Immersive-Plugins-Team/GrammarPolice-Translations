@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Command>
+    <Name>yes</Name>
+    <Action>yes</Action>
+    <Phrases>
+        <string>ja</string>
+        <string>affirmatief</string>
+        <string>bevestigend</string>
+        <string>dat klopt</string>
+        <string>inderdaad</string>
+        <string>correct</string>
+        <string>positief</string>
+        <string>ontvangen</string>
+        <string>roger</string>
+        <string>begrepen</string>
+    </Phrases>
+</Command>

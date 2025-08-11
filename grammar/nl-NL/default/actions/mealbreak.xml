@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Action>
+    <Name>mealbreak</Name>
+    <Commands>
+        <string>status</string>
+    </Commands>
+    <Phrases>
+        <string>op een pauze</string>
+        <string>op een eetpauze</string>
+        <string>op een maaltijdpauze</string>
+        <string>op een koffiepauze</string>
+        <string>op een 10-7</string>
+        <string>op een 10-10</string>
+        <string>ben even uit dienst</string>
+        <string>ben even niet beschikbaar</string>
+    </Phrases>
+    <Target>GrammarPolice.Actions.Status.MealBreak</Target>
+</Action>

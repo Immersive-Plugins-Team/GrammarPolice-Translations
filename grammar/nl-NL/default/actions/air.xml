@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Action>
+    <Name>air</Name>
+    <Commands>
+        <string>request</string>
+    </Commands>
+    <Phrases>
+        <string>luchtsteun</string>
+        <string>luchtunit</string>
+        <string>helikoptersteun</string>
+        <string>politiehelikopter</string>
+        <string>luchtpolitie</string>
+        <string>luchtbrigade</string>
+        <string>zulu</string>
+    </Phrases>
+    <Target>GrammarPolice.Actions.Backup.Air</Target>
+</Action>

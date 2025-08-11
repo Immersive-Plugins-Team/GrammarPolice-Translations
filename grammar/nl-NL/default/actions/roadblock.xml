@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Action>
+    <Name>roadblock</Name>
+    <Commands>
+        <string>request</string>
+    </Commands>
+    <Phrases>
+        <string>wegversperring</string>
+        <string>wegblokkade</string>
+        <string>blokkade</string>
+        <string>verkeersblokkade</string>
+        <string>politieblokkade</string>
+        <string>wegafzetting</string>
+        <string>afzetting</string>
+    </Phrases>
+    <Target>GrammarPolice.Actions.Backup.Roadblock</Target>
+</Action>
