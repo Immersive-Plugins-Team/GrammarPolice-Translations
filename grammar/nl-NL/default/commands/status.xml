@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Command>
+    <Name>status</Name>
+    <Phrases>
+        <string>onderweg</string>
+        <string>ik ben onderweg</string>
+        <string>ik ga</string>
+        <string>ik ben</string>
+        <string>toon mij</string>
+        <string>toon ons</string>
+        <string>wij zijn</string>
+        <string>wij zijn onderweg</string>
+        <string>ben onderweg</string>
+        <string>ben ter plaatse</string>
+        <string>ben gearriveerd</string>
+        <string>ben ter plekke</string>
+        <string>ben op locatie</string>
+        <string>ben beschikbaar</string>
+        <string>ben inzetbaar</string>
+        <string>ben paraat</string>
+        <string>ben in dienst</string>
+        <string>ben uit dienst</string>
+        <string>ben niet beschikbaar</string>
+        <string>ben klaar</string>
+        <string>ben gereed</string>
+    </Phrases>
+</Command>

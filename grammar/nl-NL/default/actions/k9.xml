@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Action>
+    <Name>k9</Name>
+    <Commands>
+        <string>request</string>
+    </Commands>
+    <Phrases>
+        <string>k negen</string>
+        <string>k negen eenheid</string>
+        <string>hondengeleider</string>
+        <string>hondeneenheid</string>
+        <string>politiehond</string>
+        <string>diensthond</string>
+        <string>k9</string>
+        <string>k9 eenheid</string>
+    </Phrases>
+    <Target>GrammarPolice.Actions.Backup.K9</Target>
+</Action>

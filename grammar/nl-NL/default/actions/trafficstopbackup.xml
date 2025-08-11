@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Action>
+    <Name>trafficstopbackup</Name>
+    <Commands>
+        <string>request</string>
+    </Commands>
+    <Phrases>
+        <string>verzoek om assistentie bij verkeerscontrole</string>
+        <string>verkeerscontrole backup</string>
+        <string>assistentie bij verkeerscontrole</string>
+        <string>verkeersstop backup</string>
+        <string>verkeersstop assistentie</string>
+        <string>verkeerscontrole ondersteuning</string>
+        <string>ondersteuning bij verkeerscontrole</string>
+        <string>collega ter plaatse bij verkeerscontrole</string>
+        <string>verzoek om collega bij verkeerscontrole</string>
+    </Phrases>
+    <Target>GrammarPolice.Actions.Backup.TrafficStopBackup</Target>
+</Action>

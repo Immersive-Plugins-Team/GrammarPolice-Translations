@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Action>
+    <Name>visual</Name>
+    <Commands>
+        <string>advisory</string>
+    </Commands>
+    <Phrases>
+        <string>visueel</string>
+        <string>verdachte visueel</string>
+        <string>verdachte in zicht</string>
+        <string>in zicht</string>
+        <string>zicht op verdachte</string>
+        <string>heb visueel contact</string>
+        <string>heb verdachte in beeld</string>
+        <string>doelwit in zicht</string>
+        <string>heb zicht op doelwit</string>
+        <string>heb visueel</string>
+        <string>heb verdachte visueel</string>
+        <string>contact met verdachte</string>
+    </Phrases>
+    <Target>GrammarPolice.Actions.Advisory.Visual</Target>
+</Action>

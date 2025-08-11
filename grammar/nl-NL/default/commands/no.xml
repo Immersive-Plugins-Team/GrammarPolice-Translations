@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Command>
+    <Name>no</Name>
+    <Action>no</Action>
+    <Phrases>
+        <string>nee</string>
+        <string>negatief</string>
+        <string>afwijzen</string>
+        <string>ontkennen</string>
+        <string>negatief ontvangen</string>
+        <string>geen toestemming</string>
+        <string>negatief, over</string>
+        <string>negatief begrepen</string>
+    </Phrases>
+</Command>

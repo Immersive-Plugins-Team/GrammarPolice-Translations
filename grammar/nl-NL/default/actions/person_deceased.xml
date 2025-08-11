@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Action>
+    <Name>person_deceased</Name>   
+    <Commands>
+        <string>advisory</string>
+    </Commands>
+    <Phrases>
+		<string>dood</string>
+		<string>overleden</string>
+		<string>verdachte dood</string>
+		<string>persoon dood</string>
+		<string>agent dood</string>
+		<string>burger dood</string>
+		<string>verdachte overleden</string>
+		<string>persoon overleden</string>
+		<string>agent overleden</string>
+		<string>burger overleden</string>
+		<string>verdachte ter plaatse overleden</string>
+		<string>persoon ter plaatse overleden</string>
+		<string>officier ter plaatse overleden</string>
+		<string>burger ter plaatse overleden</string>
+		<string>verdachte is overleden</string>
+		<string>persoon is overleden</string>
+		<string>officier is overleden</string>
+		<string>burger is overleden</string>
+		<string>verdachte is DOA</string>
+		<string>persoon is DOA</string>
+		<string>officier is DOA</string>
+		<string>burger is DOA</string>
+		<string>DOA</string>
+		<string>niet aanspreekbaar</string>
+		<string>geen teken van leven</string>
+    </Phrases>	
+    <Target>GrammarPolice.Actions.Advisory.PersonDeceased</Target>
+</Action>

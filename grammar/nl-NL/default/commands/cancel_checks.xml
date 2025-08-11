@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Command>
+    <Name>cancel_checks</Name>
+    <Action>cancel_checks</Action>
+    <Phrases>
+        <string>annuleer</string>
+        <string>controle annuleren</string>
+        <string>controle afbreken</string>
+        <string>negatief, annuleren</string>
+        <string>negatief, geen controle</string>
+        <string>situatie normaal, annuleren</string>
+        <string>stop controle</string>
+        <string>controle beëindigen</string>
+    </Phrases>
+</Command>

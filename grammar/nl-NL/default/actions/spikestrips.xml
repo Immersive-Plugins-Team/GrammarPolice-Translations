@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Action>
+    <Name>spikestrips</Name>
+    <Commands>
+        <string>request</string>
+    </Commands>
+    <Phrases>
+        <string>spikes</string>
+        <string>spike strips</string>
+        <string>spijkermat</string>
+        <string>spijkermatten</string>
+        <string>spijkerstrip</string>
+        <string>spijkerstrips</string>
+        <string>bandenstopper</string>
+        <string>bandenstoppers</string>
+        <string>stopmat</string>
+        <string>stopmatten</string>
+        <string>spijkerketting</string>
+        <string>spijkerkettingen</string>
+    </Phrases>
+    <Target>GrammarPolice.Actions.Backup.Spikestrips</Target>
+</Action>

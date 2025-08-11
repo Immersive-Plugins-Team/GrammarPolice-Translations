@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Action>
+    <Name>occupied_2</Name>   
+    <Commands>
+        <string>occupied</string>
+    </Commands>
+    <Phrases>
+        <string>bezet één keer geen extra's</string>
+        <string>bezet twee keer geen extra's</string>
+        <string>bezet drie keer geen extra's</string>
+        <string>bezet één keer geen backup</string>
+        <string>bezet twee keer geen backup</string>
+        <string>bezet drie keer geen backup</string>
+        <string>één inzittende, geen extra personen</string>
+        <string>twee inzittenden, geen extra personen</string>
+        <string>drie inzittenden, geen extra personen</string>
+        <string>één inzittende, geen assistentie nodig</string>
+        <string>twee inzittenden, geen assistentie nodig</string>
+        <string>drie inzittenden, geen assistentie nodig</string>
+    </Phrases>	
+    <Target>GrammarPolice.Actions.Status.TrafficStop</Target>
+    <Parameters>
+        <Parameter>
+            <Type>System.Int32</Type>
+            <Value>2</Value>
+        </Parameter>
+    </Parameters>
+</Action>

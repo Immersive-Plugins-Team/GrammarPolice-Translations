@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Action>
+    <Name>suspect_lost</Name>   
+    <Commands>
+        <string>advisory</string>
+    </Commands>
+    <Phrases>
+        <string>visueel contact verloren</string>
+        <string>visueel contact met de verdachte verloren</string>
+        <string>verdachte uit het zicht</string>
+        <string>verdachte uit beeld</string>
+        <string>verdachte kwijt</string>
+        <string>geen zicht meer op de verdachte</string>
+        <string>verdachte uit het oog verloren</string>
+        <string>negatief, verdachte niet meer in beeld</string>
+        <string>geen visueel op de verdachte</string>
+    </Phrases>	
+    <Target>GrammarPolice.Actions.Advisory.SuspectLost</Target>
+</Action>

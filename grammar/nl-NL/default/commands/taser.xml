@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Command>
+    <Name>taser</Name>
+    <Action>taser</Action>
+    <Phrases>
+        <string>taser</string>
+        <string>taser ingezet</string>
+        <string>taser is ingezet</string>
+        <string>stroomstootwapen</string>
+        <string>stroomstootwapen ingezet</string>
+        <string>stroomstootwapen is ingezet</string>
+        <string>taser gebruikt</string>
+        <string>taser afgevuurd</string>
+        <string>stroomstootwapen gebruikt</string>
+        <string>stroomstootwapen afgevuurd</string>
+    </Phrases>
+</Command>

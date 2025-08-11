@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Action>
+    <Name>platecheck</Name>
+    <Commands>
+        <string>request</string>
+    </Commands>
+    <Phrases>
+        <string>kenteken</string>
+        <string>kentekencontrole</string>
+        <string>kenteken check</string>
+        <string>kenteken opvragen</string>
+        <string>nummerplaat</string>
+        <string>nummerplaatcontrole</string>
+        <string>nummerplaat check</string>
+        <string>nummerplaat opvragen</string>
+        <string>plaatcontrole</string>
+        <string>plaat check</string>
+    </Phrases>
+    <Target>GrammarPolice.Actions.Computer.Platecheck</Target>
+</Action>

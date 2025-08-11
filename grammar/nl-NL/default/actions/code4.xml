@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Action>
+    <Name>code4</Name>
+    <Commands>
+        <string>status</string>
+    </Commands>
+    <Phrases>
+        <string>veilig</string>
+        <string>alles veilig</string>
+        <string>alles onder controle</string>
+        <string>geen assistentie nodig</string>
+        <string>geen hulp nodig</string>
+        <string>alles oké</string>
+        <string>alles in orde</string>
+    </Phrases>
+    <Target>GrammarPolice.Actions.Status.Code4</Target>
+</Action>

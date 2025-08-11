@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Action>
+    <Name>ticketnumber</Name>
+    <Commands>
+        <string>request</string>
+    </Commands>
+    <Phrases>
+        <string>een bonnummer</string>
+        <string>bonnummer</string>
+        <string>proces-verbaalnummer</string>
+        <string>pv-nummer</string>
+        <string>nummer van de bekeuring</string>
+        <string>nummer van het proces-verbaal</string>
+    </Phrases>
+    <Target>GrammarPolice.Actions.Interactions.TicketNumber</Target>
+</Action>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Action>
+    <Name>felonystopbackup</Name>
+    <Commands>
+        <string>request</string>
+    </Commands>
+    <Phrases>
+        <string>ondersteuning bij aanhouding</string>
+        <string>ondersteuning bij gevaarlijke aanhouding</string>
+        <string>gevaarlijke aanhouding backup</string>
+        <string>gevaarlijke aanhouding assistentie</string>
+        <string>assistentie bij aanhouding</string>
+        <string>assistentie gevaarlijke verdachte</string>
+    </Phrases>
+    <Target>GrammarPolice.Actions.Backup.FelonyStopBackup</Target>
+</Action>

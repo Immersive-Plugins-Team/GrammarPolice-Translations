@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Action>
+    <Name>fight</Name>
+    <Commands>
+        <string>advisory</string>
+    </Commands>
+    <Phrases>
+        <string>vechtpartij gaande</string>
+        <string>vechtpartij</string>
+        <string>vechtincident</string>
+        <string>ruzie op straat</string>
+        <string>conflict op straat</string>
+        <string>vechtpartij</string>
+        <string>ruzie</string>
+    </Phrases>
+    <Target>GrammarPolice.Actions.Advisory.Fight</Target>
+</Action>

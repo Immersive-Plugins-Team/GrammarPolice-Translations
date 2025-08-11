@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Action>
+    <Name>startpatrol</Name>
+    <Commands>
+        <string>status</string>
+    </Commands>
+    <Phrases>
+        <string>patrouille starten</string>
+        <string>ik ben beschikbaar</string>
+        <string>status een</string>
+        <string>start dienst</string>
+        <string>aanmelden voor dienst</string>
+    </Phrases>
+    <Target>GrammarPolice.Actions.Status.StartPatrol</Target>
+</Action>

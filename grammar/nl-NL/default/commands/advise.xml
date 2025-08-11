@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Command>
+    <Name>advise</Name>
+    <Action>advise</Action>
+    <Phrases>
+        <string>let op</string>
+        <string>wees gewaarschuwd</string>
+        <string>ter informatie</string>
+        <string>voor uw informatie</string>
+        <string>houd rekening met</string>
+        <string>let wel</string>
+        <string>ter attentie</string>
+        <string>voor kennisgeving</string>
+    </Phrases>
+</Command>

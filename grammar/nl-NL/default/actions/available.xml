@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Action>
+    <Name>available</Name>
+    <Commands>
+        <string>status</string>
+    </Commands>
+    <Phrases>
+        <string>beschikbaar</string>
+        <string>in dienst</string>
+        <string>operationeel</string>
+        <string>vrij</string>
+        <string>status beschikbaar</string>
+        <string>status 1</string>
+        <string>status één</string>
+    </Phrases>
+    <Target>GrammarPolice.Actions.Status.Available</Target>
+</Action>

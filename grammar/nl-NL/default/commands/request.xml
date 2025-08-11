@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Command>
+    <Name>request</Name>
+    <Phrases>
+        <string>kan ik een krijgen</string>
+        <string>ik heb een </string>
+        <string>kan ik een </string>
+        <string>ik heb nodig</string>
+        <string>ik heb een nodig</string>
+        <string>ik heb een verzoek</string>
+        <string>ik heb assistentie nodig</string>
+        <string>verzoek</string>
+        <string>verzoek om</string>
+        <string>stuur mij</string>
+        <string>stuur</string>
+        <string>we hebben nodig</string>
+        <string>verzoek om eenheden</string>
+        <string>assistentie gevraagd</string>
+        <string>verzoek om backup</string>
+        <string>verzoek om ondersteuning</string>
+        <string>verzoek om collega</string>
+        <string>verzoek om versterking</string>
+        <string>verzoek om ambulance</string>
+        <string>verzoek om brandweer</string>
+        <string>verzoek om verkeersdienst</string>
+        <string>verzoek om arrestatieteam</string>
+    </Phrases>
+</Command>

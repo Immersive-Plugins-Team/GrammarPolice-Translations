@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Action>
+    <Name>busy</Name>
+    <Commands>
+        <string>status</string>
+    </Commands>
+    <Phrases>
+        <string>bezet</string>
+        <string>niet beschikbaar</string>
+        <string>druk</string>
+        <string>in gesprek</string>
+        <string>niet inzetbaar</string>
+        <string>bezig</string>
+        <string>niet bereikbaar</string>
+        <string>status vier</string>
+        <string>vier</string>
+    </Phrases>
+    <Target>GrammarPolice.Actions.Status.Busy</Target>
+</Action>

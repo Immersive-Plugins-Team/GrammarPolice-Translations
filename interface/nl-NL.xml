@@ -1,0 +1,66 @@
+<interface>
+<menu name="Advies">
+    <item name="Vechtpartij" action="fight"/>
+    <item name="Persoon Overleden" action="person_deceased"/>
+    <item name="Persoon Gewond" action="person_injured"/>
+    <item name="Verdachte is aangehouden" action="suspect_custody"/>
+    <item name="Verdachte is Ontkomen" action="suspect_lost"/>
+    <item name="Contact met Verdachte" action="visual"/>
+</menu>
+<menu name="Backup">
+    <item name="Prio 2" action="code2"/>
+    <item name="" action="code2state"/>
+    <item name="Prio 1" action="code3"/>
+    <item name="" action="code3state"/>
+    <item name="Felony Stop" action="felonystopbackup"/>
+    <item name="Vrouwelijke Agent" action="female"/>
+    <item name="Kmar" action="noose"/>
+    <item name="D S I" action="swat"/>
+    <item name="Verkeerscontrole" action="trafficstopbackup"/>
+</menu>
+<menu name="Interactie">
+    <item name="Bevestigen" action="yes"/>
+    <item name="Negatief" action="no"/>
+    <item name="Checks Annuleren" action="cancel_checks"/>
+    <item name="Situatie Normaal" action="normal"/>
+</menu>
+<menu name="Achtervolging">
+    <item name="Zulu" action="air"/>
+    <item name="PIT Verzoek" action="pit"/>
+    <item name="Wegblokkade" action="roadblock"/>
+    <item name="Spijkermat" action="spikestrips"/>
+</menu>
+<menu name="Verzoek">
+    <item name="Dierencontrole" action="animal"/>
+    <item name="Recherche" action="coroner"/>
+    <item name="Ambulance" action="ems"/>
+    <item name="Brandweer" action="fire"/>
+    <item name="Verzekering" action="insurance"/>
+    <item name="Hondengeleider" action="k9"/>
+    <item name="Persoonscontrole" action="pedcheck"/>
+    <item name="Kentekencontrole" action="platecheck"/>
+    <item name="Radio Check" action="radiocheck"/>
+    <item name="Boetenummer" action="ticketnumber"/>
+    <item name="Takelwagen" action="tow"/>
+    <item name="Vervoer" action="transport"/>
+    <item name="Voertuig" action="vehicle"/>
+</menu>
+<menu name="Status">
+    <item name="Beschikbaar" action="available"/>
+    <item name="Bezet" action="busy"/>
+    <item name="status 1" action="code4"/>
+    <item name="In Achtervolging" action="pursuit"/>
+    <item name="Onderzoek" action="investigating"/>
+    <item name="Pauze" action="mealbreak"/>
+    <item name="Op Surveillance" action="onpatrol"/>
+    <item name="Buiten Dienst" action="outofservice"/>
+    <item name="Terug Naar Bureau" action="station"/>
+    <item name="Ter Plaatse" action="scene"/>
+    <item name="Verkeerscontrole" action="traffic"/>
+</menu>
+<menu name="Verkeer">
+    <item name="Verkeer Vertragen" action="traffic_control_slow"/>
+    <item name="Verkeer Stoppen" action="traffic_control_stop"/>
+    <item name="Verkeer Hervatten" action="traffic_control_clear"/>
+</menu>
+</interface>

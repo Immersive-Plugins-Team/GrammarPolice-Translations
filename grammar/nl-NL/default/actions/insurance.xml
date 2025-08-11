@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Action>
+    <Name>insurance</Name>
+    <Commands>
+        <string>request</string>
+    </Commands>
+    <Phrases>
+        <string>verzekering</string>
+        <string>verzekeringsmaatschappij</string>
+        <string>verzekeringsdienst</string>
+        <string>verzekeringsagent</string>
+        <string>verzekeringskantoor</string>
+        <string>poliscontrole</string>
+        <string>verzekeringspapieren</string>
+        <string>verzekeringsbewijs</string>
+        <string>verzekeringsdocumenten</string>
+        <string>controle verzekering</string>
+        <string>controle verzekeringsstatus</string>
+        <string>verzekeringscontrole</string>
+    </Phrases>
+    </Phrases>
+    <Target>GrammarPolice.Actions.Backup.Insurance</Target>
+</Action>

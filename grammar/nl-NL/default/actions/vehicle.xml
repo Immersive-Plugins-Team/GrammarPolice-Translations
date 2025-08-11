@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Action>
+    <Name>vehicle</Name>
+    <Commands>
+        <string>request</string>
+    </Commands>
+    <Phrases>
+        <string>een auto</string>
+        <string>een voertuig</string>
+        <string>een wagen</string>
+        <string>een dienstauto</string>
+        <string>een politievoertuig</string>
+        <string>een surveillancewagen</string>
+        <string>een eenheid</string>
+        <string>een taxi</string>
+    </Phrases>
+    <Target>GrammarPolice.Actions.Backup.Vehicle</Target>
+</Action>

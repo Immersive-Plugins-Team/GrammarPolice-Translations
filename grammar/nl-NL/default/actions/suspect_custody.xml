@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Action>
+    <Name>suspect_custody</Name>
+    <Commands>
+        <string>advisory</string>
+    </Commands>
+    <Phrases>
+        <string>in hechtenis</string>
+        <string>verdachte in hechtenis</string>
+        <string>verdachten in hechtenis</string>
+        <string>aangehouden</string>
+        <string>verdachte aangehouden</string>
+        <string>verdachten aangehouden</string>
+        <string>gearresteerd</string>
+        <string>verdachte gearresteerd</string>
+        <string>verdachten gearresteerd</string>
+        <string>onder controle</string>
+        <string>onder arrest</string>
+        <string>in bewaring</string>
+        <string>in verzekering gesteld</string>
+    </Phrases>
+    <Target>GrammarPolice.Actions.Advisory.SuspectCustody</Target>
+</Action>

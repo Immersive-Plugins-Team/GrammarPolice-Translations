@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Action>
+    <Name>fire</Name>
+    <Commands>
+        <string>request</string>
+    </Commands>
+    <Phrases>
+        <string>brandweer</string>
+        <string>brandweer en redding</string>
+        <string>brandweerdienst</string>
+        <string>brand</string>
+        <string>vlammen</string>
+        <string>noodhulp brandweer</string>
+        <string>brandweerteam</string>
+        <string>brandweerwagen</string>
+        <string>hulpdiensten</string>
+        <string>noodoproep brandweer</string>
+    </Phrases>
+    <Target>GrammarPolice.Actions.Backup.Fire</Target>
+</Action>

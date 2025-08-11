@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Action>
+    <Name>pit</Name>
+    <Commands>
+        <string>request</string>
+    </Commands>
+    <Phrases>
+        <string>pit</string>
+        <string>pit maneuver</string>
+        <string>pitmanoeuvre</string>
+        <string>uitvoeren pitmanoeuvre</string>
+        <string>rammen</string>
+        <string>ramactie</string>
+        <string>afdringen</string>
+        <string>voertuig tot stilstand brengen</string>
+        <string>politie-ramactie</string>
+    </Phrases>
+    <Target>GrammarPolice.Actions.Backup.Pit</Target>
+</Action>

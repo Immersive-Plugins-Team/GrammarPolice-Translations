@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Command>
+    <Name>copy</Name>
+    <Action>copy</Action>
+    <Phrases>
+        <string>kopiëren</string>
+        <string>begrepen</string>
+        <string>ontvangen</string>
+        <string>copy</string>
+        <string>10-4</string>
+        <string>roger</string>
+        <string>affirmatief</string>
+    </Phrases>
+</Command>

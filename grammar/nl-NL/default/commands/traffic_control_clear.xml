@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Command>
+    <Name>traffic_control_clear</Name>
+    <Action>traffic_control_clear</Action>
+    <Phrases>
+        <string>verwijder al het verkeer</string>
+        <string>verkeer vrijmaken</string>
+        <string>verkeerscontrole opheffen</string>
+        <string>verkeer ontruimen</string>
+        <string>maak de weg vrij</string>
+        <string>verkeersmaatregelen beëindigen</string>
+    </Phrases>
+</Command>

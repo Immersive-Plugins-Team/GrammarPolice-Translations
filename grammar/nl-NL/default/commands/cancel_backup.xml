@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Command>
+    <Name>cancel_backup</Name>
+    <Action>cancel_backup</Action>
+    <Phrases>
+        <string>annuleer backup</string>
+        <string>annuleer alle backup</string>
+        <string>annuleer alle eenheden</string>
+        <string>annuleer assistentie</string>
+        <string>annuleer alle assistentie</string>
+        <string>annuleer alle ondersteuning</string>
+        <string>trek alle eenheden terug</string>
+        <string>trek assistentie terug</string>
+        <string>stop alle back-up</string>
+        <string>stop alle assistentie</string>
+    </Phrases>
+    </Phrases>
+</Command>

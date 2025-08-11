@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Action>
+    <Name>pursuit</Name>
+    <Commands>
+        <string>status</string>
+    </Commands>
+    <Phrases>
+        <string>in achtervolging</string>
+        <string>ben in achtervolging</string>
+        <string>achtervolging bezig</string>
+        <string>achtervolging gestart</string>
+        <string>achtervolging gaande</string>
+        <string>ben achter verdachte aan</string>
+        <string>ben in chase</string>
+        <string>ben in een chase</string>
+        <string>ben in een achtervolging</string>
+        <string>ben bezig met achtervolging</string>
+    </Phrases>
+    <Target>GrammarPolice.Actions.Status.InPursuit</Target>
+</Action>
