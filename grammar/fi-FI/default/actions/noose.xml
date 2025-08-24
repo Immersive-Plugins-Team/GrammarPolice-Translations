@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Action>
+    <Name>noose</Name>
+    <Commands>
+        <string>request</string>
+    </Commands>
+    <Phrases>
+        <string>vati</string>
+        <string>vati ryhmä</string>
+		<string>vati yksikkö</string>
+		<string>vaarallisten tilanteiden yksikkö</string>
+    </Phrases>
+    <Target>GrammarPolice.Actions.Backup.Noose</Target>
+</Action>

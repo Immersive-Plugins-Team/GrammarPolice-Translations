@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Action>
+    <Name>person_injured</Name>   
+    <Commands>
+        <string>advisory</string>
+    </Commands>
+    <Phrases>
+	    <string>maassa</string>
+		<string>loukkaantunut</string>
+		<string>epäilty maassa</string>
+	    <string>henkilö maassa</string>
+	    <string>siviili maassa</string>
+		<string>epäilty loukkaantunut</string>
+	    <string>henkilö loukkaantunut</string>
+	    <string>siviili loukkaantunut</string>
+    </Phrases>	
+    <Target>GrammarPolice.Actions.Advisory.PersonInjured</Target>
+</Action>

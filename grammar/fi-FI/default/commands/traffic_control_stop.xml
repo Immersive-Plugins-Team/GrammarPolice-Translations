@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Command>
+    <Name>traffic_control_stop</Name>
+    <Action>traffic_control_stop</Action>
+    <Phrases>
+        <string>pysäytä liikenne</string>
+    </Phrases>
+</Command>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Command>
+    <Name>copy</Name>
+    <Action>copy</Action>
+    <Phrases>
+        <string>kuitti</string>
+		<string>kuitti tälle</string>
+        <string>kymppi neljä</string>
+    </Phrases>
+</Command>

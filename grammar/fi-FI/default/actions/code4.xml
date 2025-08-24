@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Action>
+    <Name>code4</Name>
+    <Commands>
+        <string>status</string>
+    </Commands>
+    <Phrases>
+        <string>vapaa</string>
+    </Phrases>
+    <Target>GrammarPolice.Actions.Status.Code4</Target>
+</Action>

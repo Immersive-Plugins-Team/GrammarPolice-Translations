@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Action>
+    <Name>code3</Name>
+    <Commands>
+        <string>request</string>
+    </Commands>
+    <Phrases>
+        <string>lisätukea</string>
+        <string>lisää yksiköitä</string>
+        <string>tukipartio</string>
+        <string>aarne</string>
+        <string>tukipartio aarnena</string>
+        <string>partioita</string>
+    </Phrases>
+    <Target>GrammarPolice.Actions.Backup.Code3</Target>
+</Action>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Action>
+    <Name>traffic</Name>
+    <Commands>
+        <string>status</string>
+    </Commands>
+    <Phrases>
+        <string>tieliikennepysäytys</string>
+        <string>liikennepysäytys</string>
+		<string>tieliikennepysäytyksellä</string>
+        <string>liikennepysäytyksellä</string>
+		<string>pysäytyksellä</string>
+        <string>pysäytys</string>
+    </Phrases>
+    <Target>GrammarPolice.Actions.Status.TrafficStop</Target>
+</Action>

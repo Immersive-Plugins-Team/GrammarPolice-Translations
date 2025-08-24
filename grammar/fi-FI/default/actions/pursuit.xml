@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Action>
+    <Name>pursuit</Name>
+    <Commands>
+        <string>status</string>
+    </Commands>
+    <Phrases>
+        <string>takaa ajossa</string>
+		<string>takaa ajo</string>
+    </Phrases>
+    <Target>GrammarPolice.Actions.Status.InPursuit</Target>
+</Action>

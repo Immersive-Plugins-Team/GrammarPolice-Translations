@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Command>
+    <Name>occupied</Name>
+    <Phrases>
+      <string>meillä on neljäovinen</string>
+	    <string>meillä on kaksiovinen</string>
+	    <string>meillä on sedani</string>
+	    <string>meillä on coupe</string>
+	    <string>meillä on mönkijä</string>
+	    <string>meillä on golfkärry</string>
+	    <string>meillä on moottoripyörä</string>
+	    <string>meillä on pyörä</string>
+        <string>mulla on neljäovinen</string>
+        <string>mulla on kaksiovinen</string></string>
+        <string>mulla on sedani</string>
+        <string>mulla on coupe</string>
+        <string>mulla on mönkijä</string>
+        <string>mulla on golfkärry</string>
+        <string>mulla on moottoripyörä</string>
+        <string>mulla on pyörä</string>
+        <string>se olisi neljäovinen</string>
+        <string>se olisi kaksiovinen</string>
+        <string>se olisi sedani</string>
+        <string>se olisi coupe</string>
+        <string>se olisi mönkijä</string>
+        <string>se olisi golfkärry</string>
+        <string>se olisi moottoripyörä</string>
+        <string>se olisi pyörä</string>
+    </Phrases>
+</Command>

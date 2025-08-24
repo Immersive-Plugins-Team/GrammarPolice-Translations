@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Action>
+    <Name>code2state</Name>
+    <Commands>
+        <string>request</string>
+    </Commands>
+    <Phrases>
+        <string>bertta state</string>
+        <string>tukipartio bertta state</string>
+    </Phrases>
+    <Target>GrammarPolice.Actions.Backup.Code2State</Target>
+</Action>

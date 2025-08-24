@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Command>
+    <Name>yes</Name>
+    <Action>yes</Action>
+    <Phrases>
+        <string>kyllä</string>
+        <string>joo</string>
+		<string>jees</string>
+    </Phrases>
+</Command>

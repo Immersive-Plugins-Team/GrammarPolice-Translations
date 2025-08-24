@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Action>
+    <Name>person_deceased</Name>   
+    <Commands>
+        <string>advisory</string>
+    </Commands>
+    <Phrases>
+	    <string>kuollut</string>
+	    <string>menehtynyt</string>
+		<string>epäilty kuollut</string>
+	    <string>henkilö kuollut</string>
+	    <string>poliisi kuollut</string>
+	    <string>siviili kuollut</string>
+		<string>epäilty menehtynyt</string>
+	    <string>henkilö menehtynyt</string>
+	    <string>poliisi menehtynyt</string>
+	    <string>siviili menehtynyt</string>
+    </Phrases>	
+    <Target>GrammarPolice.Actions.Advisory.PersonDeceased</Target>
+</Action>

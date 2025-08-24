@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Action>
+    <Name>station</Name>
+    <Commands>
+        <string>status</string>
+    </Commands>
+    <Phrases>
+        <string>palaa asemalle</string>
+		<string>kuljetus asemalle</string>
+		<string>vankilakuljetus</string>
+		<string>putkakuljetus</string>
+    </Phrases>
+    <Target>GrammarPolice.Actions.Status.ReturnToStation</Target>
+</Action>

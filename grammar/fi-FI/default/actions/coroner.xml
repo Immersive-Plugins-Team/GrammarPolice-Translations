@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Action>
+    <Name>coroner</Name>
+    <Commands>
+        <string>request</string>
+    </Commands>
+    <Phrases>
+        <string>kuolinsyyntutkija</string> 
+		<string>ruumisauto</string>
+        <string>C S I</string>
+		<string>ruumiskuljetus</string>
+    </Phrases>
+    <Target>GrammarPolice.Actions.Backup.Coroner</Target>
+</Action>

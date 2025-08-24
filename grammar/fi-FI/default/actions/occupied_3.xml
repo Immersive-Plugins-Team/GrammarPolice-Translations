@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Action>
+    <Name>occupied_3</Name>   
+    <Commands>
+        <string>occupied</string>
+    </Commands>
+    <Phrases>
+        <string>yksi henkilö tarvitaan tukipartioita</string>
+        <string>kaksi henkilöä tarvitaan tukipartioita</string>
+        <string>kolme henkilöä tarvitaan tukipartioita</string>
+        <string>yksi henkilö tarvitaan tukea</string>
+        <string>kaksi henkilöä tarvitaan tukea</string>
+        <string>kolme henkilöä tarvitaan tukea</string>
+        <string>neljä henkilöä</string>
+    </Phrases>	
+    <Target>GrammarPolice.Actions.Status.TrafficStop</Target>
+    <Parameters>
+        <Parameter>
+            <Type>System.Int32</Type>
+            <Value>3</Value>
+        </Parameter>
+    </Parameters>
+</Action>

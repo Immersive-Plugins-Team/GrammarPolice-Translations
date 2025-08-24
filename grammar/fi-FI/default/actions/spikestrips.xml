@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Action>
+    <Name>spikestrips</Name>
+    <Commands>
+        <string>request</string>
+    </Commands>
+    <Phrases>
+        <string>piikit</string>
+        <string>piikkimatot</string>
+		<string>matot</string>
+    </Phrases>
+    <Target>GrammarPolice.Actions.Backup.Spikestrips</Target>
+</Action>

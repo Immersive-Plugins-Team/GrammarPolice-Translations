@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Action>
+    <Name>k9</Name>
+    <Commands>
+        <string>request</string>
+    </Commands>
+    <Phrases>
+        <string>koo ysi</string>
+        <string>koo ysi partio</string>
+		<string>koirapartio</string>
+    </Phrases>
+    <Target>GrammarPolice.Actions.Backup.K9</Target>
+</Action>

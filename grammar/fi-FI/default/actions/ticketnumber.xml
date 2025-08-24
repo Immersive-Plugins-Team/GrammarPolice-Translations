@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Action>
+    <Name>ticketnumber</Name>
+    <Commands>
+        <string>request</string>
+    </Commands>
+    <Phrases>
+        <string>lipun numero</string>
+        <string>lippunumero</string>
+    </Phrases>
+    <Target>GrammarPolice.Actions.Interactions.TicketNumber</Target>
+</Action>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Action>
+    <Name>trafficstopbackup</Name>
+    <Commands>
+        <string>request</string>
+    </Commands>
+    <Phrases>
+        <string>tieliikennepysäytys tukea</string>
+		<string>liikennepysäytys tukea</string>
+		<string>tukea liikennepysäytykselle</string>
+		<string>tukea pysäytykselle</string>
+		<string>tukipartiota pysäytykselle</string>
+    </Phrases>
+    <Target>GrammarPolice.Actions.Backup.TrafficStopBackup</Target>
+</Action>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Action>
+    <Name>felonystopbackup</Name>
+    <Commands>
+        <string>request</string>
+    </Commands>
+    <Phrases>
+        <string>kiinniotto pysäytys</string>
+		<string>vaarallinen pysäytys</string>
+		<string>vaarallinen liikennepysäytys</string>
+		<string>felony stop</string>
+    </Phrases>
+    <Target>GrammarPolice.Actions.Backup.FelonyStopBackup</Target>
+</Action>

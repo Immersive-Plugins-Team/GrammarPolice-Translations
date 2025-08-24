@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<interface>
+    <menu name="Advisory">
+        <item name="Tappelu" action="fight" />
+        <item name="Henkilö menehtynyt" action="person_deceased" />
+        <item name="Henkilö loukkaantunut" action="person_injured" />
+        <item name="Epäilty kiinniotettu" action="suspect_custody" />
+        <item name="Epäilty hävitetty" action="suspect_lost" />
+        <item name="Näköyhteys" action="visual" />
+    </menu>
+    <menu name="Backup">
+       <item name="Bertta" action="code2" />
+       <item name="Bertta State" action="code2state" />
+       <item name="Aarne" action="code3" />
+       <item name="Aarne State" action="code3state" />
+       <item name="Vaarallinen pysäytys" action="felonystopbackup" />
+       <item name="Naispoliisi" action="female" />
+       <item name="VaTi" action="noose" />
+       <item name="Karhu" action="swat" />
+       <item name="Liikennepysäytys" action="trafficstopbackup" />
+    </menu>
+    <menu name="Interaction">
+       <item name="Kyllä" action="yes" />
+       <item name="Ei" action="no" />
+       <item name="Peruutus" action="cancel_checks" />
+       <item name="Tilanne normaali" action="normal" />
+    </menu>
+    <menu name="Pursuit">
+       <item name="Ilma" action="air" />
+       <item name="Pyöräytys" action="pit" />
+       <item name="Roadblock" action="roadblock" />
+       <item name="Piikkimatot" action="spikestrips" />
+    </menu>
+    <menu name="Request">
+       <item name="Eläinsuojelu" action="animal" />
+       <item name="Ruumisauto" action="coroner" />
+       <item name="Ensihoito" action="ems" />
+       <item name="Pelastuslaitos" action="fire" />
+       <item name="Vakuutusyhtiö" action="insurance" />
+       <item name="Koirapartio" action="k9" />
+       <item name="Ped Check" action="pedcheck" />
+       <item name="Rekisterikilpi tarkistus" action="platecheck" />
+       <item name="Radio" action="radiocheck" />
+       <item name="Ticket Number" action="ticketnumber" />
+       <item name="Hinausauto" action="tow" />
+       <item name="Kuljetus" action="transport" />
+       <item name="Ajoneuvo" action="vehicle" />
+    </menu>
+    <menu name="Status">
+       <item name="Vapaa ja partioi" action="available" />
+       <item name="Ei hälytettävissä" action="busy" />
+       <item name="Vapaa" action="code4" />
+       <item name="Takaa ajo" action="pursuit" />
+       <item name="Tutkii" action="investigating" />
+       <item name="Ruokatauko" action="mealbreak" />
+       <item name="Partioi" action="onpatrol" />
+       <item name="OOS" action="outofservice" />
+       <item name="Palaa asemalle" action="station" />
+       <item name="Paikalla" action="scene" />
+       <item name="Tieliikennepysäytys" action="traffic" />
+    </menu>
+    <menu name="Traffic">
+       <item name="Hidasta liikenne" action="traffic_control_slow" />
+       <item name="Pysäytä liikenne" action="traffic_control_stop" />
+       <item name="Avaa liikenne" action="traffic_control_clear" />
+    </menu>
+</interface>

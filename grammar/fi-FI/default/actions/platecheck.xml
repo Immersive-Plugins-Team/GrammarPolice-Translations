@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Action>
+    <Name>platecheck</Name>
+    <Commands>
+        <string>request</string>
+    </Commands>
+    <Phrases>
+        <string>rekisterikilpi</string>
+        <string>kilpitarkistus</string>
+		<string>kilven tarkistus</string>
+    </Phrases>
+    <Target>GrammarPolice.Actions.Computer.Platecheck</Target>
+</Action>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Action>
+    <Name>occupied_2</Name>   
+    <Commands>
+        <string>occupied</string>
+    </Commands>
+    <Phrases>
+        <string>yksi henkilö ei tarvita tukea</string>
+        <string>kaksi henkilöä ei tarvita tukea</string>
+        <string>kolme henkilöä ei tarvita tukea</string>
+    </Phrases>	
+    <Target>GrammarPolice.Actions.Status.TrafficStop</Target>
+    <Parameters>
+        <Parameter>
+            <Type>System.Int32</Type>
+            <Value>2</Value>
+        </Parameter>
+    </Parameters>
+</Action>

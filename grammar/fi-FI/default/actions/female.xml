@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Action>
+    <Name>female</Name>
+    <Commands>
+        <string>request</string>
+    </Commands>
+    <Phrases>
+        <string>nainen</string>
+        <string>naispoliisi</string>
+    </Phrases>
+    <Target>GrammarPolice.Actions.Backup.Female</Target>
+</Action>

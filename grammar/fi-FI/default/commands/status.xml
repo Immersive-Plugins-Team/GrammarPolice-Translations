@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Command>
+    <Name>status</Name>
+    <Phrases>
+        <string>mennään</string>
+        <string>menen</string>
+        <string>olen</string>
+        <string>olen menossa</string>
+        <string>näytä</string>
+        <string>ollaan</string>
+        <string>olemme</string>
+    </Phrases>
+</Command>

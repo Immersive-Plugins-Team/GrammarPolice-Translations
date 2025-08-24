@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Command>
+    <Name>request</Name>
+    <Phrases>
+        <string>saisinko</string>
+        <string>tarvitsen</string>
+        <string>tarvitaan</string>
+        <string>me tarvitaan</string>
+        <string>lähetä</string>
+        <string>tarvitsemme</string>
+    </Phrases>
+</Command>

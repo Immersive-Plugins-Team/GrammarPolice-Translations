@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Action>
+    <Name>code3state</Name>
+    <Commands>
+        <string>request</string>
+    </Commands>
+    <Phrases>
+        <string>aarne state</string>
+    </Phrases>
+    <Target>GrammarPolice.Actions.Backup.Code3State</Target>
+</Action>

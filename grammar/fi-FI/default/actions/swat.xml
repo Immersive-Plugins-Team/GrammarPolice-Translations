@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Action>
+    <Name>swat</Name>
+    <Commands>
+        <string>request</string>
+    </Commands>
+    <Phrases>
+        <string>karhuryhmä</string>
+        <string>taktinen yksikkö</string>
+		<string>karhu yksikkö</string>
+        <string>valmiusyksikkö</string>
+		<string>valmiusyksikkö karhu</string>
+    </Phrases>
+    <Target>GrammarPolice.Actions.Backup.Swat</Target>
+</Action>

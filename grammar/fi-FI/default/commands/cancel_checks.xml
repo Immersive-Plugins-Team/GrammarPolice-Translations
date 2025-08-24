@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Command>
+    <Name>cancel_checks</Name>
+    <Action>cancel_checks</Action>
+    <Phrases>
+        <string>peruuta</string>
+        <string>tilanne normaali peruutus</string>
+    </Phrases>
+</Command>

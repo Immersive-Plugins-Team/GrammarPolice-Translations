@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Command>
+    <Name>accept</Name>
+    <Action>accept</Action>
+    <Phrases>
+        <string>matkalla</string>
+		<string>ottaa uusimman</string>
+		<string>matkalla uusimmalle tehtävälle</string>
+		<string>matkalla uusimmalle</string>
+        <string>käydään katsomassa</string>
+        <string>vastaa</string>
+    </Phrases>
+</Command>

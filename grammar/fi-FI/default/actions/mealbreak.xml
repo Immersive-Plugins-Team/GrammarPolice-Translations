@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Action>
+    <Name>mealbreak</Name>
+    <Commands>
+        <string>status</string>
+    </Commands>
+    <Phrases>
+        <string>tauolla</string> 
+		<string>on tauolla</string>
+        <string>on ruokatauolla</string>
+		<string>ruokatauolla</string>
+		<string>pitää ruokataukoa</string>
+		<string>pitää taukoa</string>
+    </Phrases>
+    <Target>GrammarPolice.Actions.Status.MealBreak</Target>
+</Action>

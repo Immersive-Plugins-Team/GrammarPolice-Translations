@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Command>
+    <Name>panic</Name>
+    <Action>panic</Action>
+    <Phrases>
+        <string>shots fired</string>
+        <string>laukauksia ammuttu</string>
+		<string>paniikki</string>
+		<string>ammuttu</string>
+		
+    </Phrases>
+</Command>
