@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Command>
+    <Name>request</Name>
+    <Phrases>
+		<string>você pode enviar</string>
+		<string>enviar</string>
+		<string>consegue enviar</string>
+		<string>consegue enviar algum</string>
+        <string>consegue mandar</string>
+		<string>consegue mandar algum</string>
+        <string>eu preciso</string>
+        <string>eu preciso de</string>
+        <string>eu preciso de algum</string>
+        <string>solicita</string>
+        <string>solicitando</string>
+        <string>manda</string>
+		<string>manda algum</string>
+        <string>nós precisamos</string>
+		<string>pucha</string>
+		<string>pucha um</string>
+    </Phrases>
+</Command>

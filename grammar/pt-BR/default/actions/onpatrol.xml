@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Action>
+    <Name>onpatrol</Name>
+    <Commands>
+        <string>status</string>
+    </Commands>
+    <Phrases>
+        <string>em patrulha</string>
+		<string>em patrulhamento</string>
+		<string>patrulhamento</string>
+    </Phrases>
+    <Target>GrammarPolice.Actions.Status.OnPatrol</Target>
+</Action>

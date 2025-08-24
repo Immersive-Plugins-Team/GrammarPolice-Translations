@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Action>
+    <Name>accept</Name>
+    <Commands>
+        <string>status</string>
+    </Commands>
+    <Phrases>
+        <string>a caminho</string>
+        <string>estou a caminho</string>
+        <string>respondendo</string>
+    </Phrases>
+    <Target>GrammarPolice.Actions.Callout.Accept</Target>
+</Action>

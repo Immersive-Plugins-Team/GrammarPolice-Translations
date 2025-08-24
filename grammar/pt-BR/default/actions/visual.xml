@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Action>
+    <Name>visual</Name>
+    <Commands>
+        <string>advisory</string>
+    </Commands>
+    <Phrases>
+        <string>visual</string>
+        <string>suspeito visual</string>
+        <string>suspeito à vista</string>
+		<string>suspeito avistado</string>
+		<string>em visual</string>
+		<string>avistado</string>
+    </Phrases>
+    <Target>GrammarPolice.Actions.Advisory.Visual</Target>
+</Action>

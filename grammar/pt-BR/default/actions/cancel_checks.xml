@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Action>
+    <Name>cancel_checks</Name>
+    <Target>GrammarPolice.Actions.Interactions.Cancel_Checks</Target>
+</Action>

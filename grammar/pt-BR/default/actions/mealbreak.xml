@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Action>
+    <Name>mealbreak</Name>
+    <Commands>
+        <string>status</string>
+    </Commands>
+    <Phrases>
+        <string>em uma pausa</string>
+		<string>pausa</string>
+        <string>refeição</string>
+		<string>refeitório</string>
+		<string>no refeição</string>
+		<string>no refeitório</string>
+		<string>em refeição</string>
+		<string>em refeitório</string>
+        <string>no intervalo para refeição</string>
+		<string>no intervalo</string>
+		<string>intervalo</string>
+		<string>em intervalo</string>
+    </Phrases>
+    <Target>GrammarPolice.Actions.Status.MealBreak</Target>
+</Action>

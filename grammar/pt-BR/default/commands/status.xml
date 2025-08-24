@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Command>
+    <Name>status</Name>
+    <Phrases>
+        <string>estou</string>
+		<string>esta</string>
+		<string>esta iniciando</string>
+		<string>esta indo</string>
+        <string>eu estou</string>
+		<string>eu estou indo</string>
+        <string>vou</string>
+		<string>vou iniciar</string>
+        <string>eu vou</string>
+		<string>eu vou fazer</string>
+		<string>eu vou iniciar</string>
+        <string>marca</string>
+		<string>marca como</string>
+		<string>me marca</string>
+		<string>me mostra</string>
+		<string>mostra nós</string>
+        <string>marca para nós</string>
+        <string>nós estamos</string>
+        <string>nós estamos fazendo</string>
+		<string>nós estamos iniciando</string>
+		<string>cheguei</string>
+		<string>chegou</string>
+		<string>viatura</string>
+		<string>viatura esta</string>
+    </Phrases>
+</Command>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Command>
+    <Name>cancel_checks</Name>
+    <Action>cancel_checks</Action>
+    <Phrases>
+        <string>cancela</string>
+		<string>cancelar</string>
+        <string>situação normal cancela</string>
+		</Phrases>
+</Command>

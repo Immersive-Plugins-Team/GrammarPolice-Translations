@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Command>
+    <Name>cancel_backup</Name>
+    <Action>cancel_backup</Action>
+    <Phrases>
+        <string>cancela apoio</string>
+        <string>cancela todos apoio</string>
+    </Phrases>
+</Command>

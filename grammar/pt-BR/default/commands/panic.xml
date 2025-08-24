@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Command>
+    <Name>panic</Name>
+    <Action>panic</Action>
+    <Phrases>
+        <string>código noventa e nove</string>
+        <string>tiros disparados</string>
+		<string>tiroteio</string>
+		<string>prioridade</string>
+		<string>apoio prioridade</string>
+    </Phrases>
+</Command>

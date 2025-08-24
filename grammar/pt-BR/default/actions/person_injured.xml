@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Action>
+    <Name>person_injured</Name>   
+    <Commands>
+        <string>advisory</string>
+    </Commands>
+    <Phrases>
+		<string>ferido</string>
+		<string>baleado</string>
+		<string>abatido</string>
+		<string>suspeito ferido</string>
+	    <string>pessoa ferido</string>
+	    <string>civil ferido</string>
+		<string>contato ferido</string>
+		<string>suspeito baleado</string>
+	    <string>pessoa baleado</string>
+	    <string>civil baleado</string>
+		<string>contato baleado</string>
+		<string>suspeito abatido</string>
+	    <string>pessoa abatido</string>
+	    <string>civil abatido</string>
+		<string>contato abatido</string>
+    </Phrases>	
+    <Target>GrammarPolice.Actions.Advisory.PersonInjured</Target>
+</Action>

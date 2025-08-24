@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Command>
+    <Name>occupied</Name>
+    <Phrases>
+      <string>nós temos um quatro portas</string>
+	    <string>nós temos um dois portas</string>
+	    <string>nós temos um sedan</string>
+	    <string>nós temos um coupé</string>
+	    <string>nós temos um quadriciclos</string>
+	    <string>nós temos um carrinho de golfe</string>
+	    <string>nós temos um motocicleta</string>
+	    <string>nós temos um bicicleta</string>
+		<string>nós temos um bike</string>
+		<string>nós temos quatro portas</string>
+	    <string>nós temos dois portas</string>
+	    <string>nós temos sedan</string>
+	    <string>nós temos coupé</string>
+	    <string>nós temos quadriciclos</string>
+	    <string>nós temos carrinho de golfe</string>
+	    <string>nós temos motocicleta</string>
+	    <string>nós temos bicicleta</string>
+		<string>nós temos bike</string>
+		<string>eu tenho um quatro portas</string>
+	    <string>eu tenho um dois portas</string>
+	    <string>eu tenho um sedan</string>
+	    <string>eu tenho um coupé</string>
+	    <string>eu tenho um quadriciclos</string>
+	    <string>eu tenho um carrinho de golfe</string>
+	    <string>eu tenho um motocicleta</string>
+	    <string>eu tenho um bicicleta</string>
+		<string>eu tenho um bike</string>
+		<string>vai ser um quatro portas</string>
+	    <string>vai ser um dois portas</string>
+	    <string>vai ser um sedan</string>
+	    <string>vai ser um coupé</string>
+	    <string>vai ser um quadriciclos</string>
+	    <string>vai ser um carrinho de golfe</string>
+	    <string>vai ser um motocicleta</string>
+	    <string>vai ser um bicicleta</string>
+		<string>vai ser um bike</string>
+		<string>tem um quatro portas</string>
+	    <string>tem um dois portas</string>
+	    <string>tem um sedan</string>
+	    <string>tem um coupé</string>
+	    <string>tem um quadriciclos</string>
+	    <string>tem um carrinho de golfe</string>
+	    <string>tem um motocicleta</string>
+	    <string>tem um bicicleta</string>
+		<string>tem um bike</string>
+		<string>tem quatro portas</string>
+	    <string>tem dois portas</string>
+	    <string>tem sedan</string>
+	    <string>tem coupé</string>
+	    <string>tem quadriciclos</string>
+	    <string>tem carrinho de golfe</string>
+	    <string>tem motocicleta</string>
+	    <string>tem bicicleta</string>
+		<string>tem bike</string>
+    </Phrases>
+</Command>

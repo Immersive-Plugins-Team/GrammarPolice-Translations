@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Command>
+    <Name>clear</Name>
+    <Action>clear</Action>
+    <Phrases>
+		<string>situação limpo</string>
+		<string>situação limpa</string>
+		<string>código limpo</string>
+        <string>código quatro</string>
+    </Phrases>
+</Command>
