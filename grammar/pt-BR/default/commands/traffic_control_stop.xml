@@ -4,10 +4,10 @@
     <Action>traffic_control_stop</Action>
     <Phrases>
 		<string>parar todo o trânsito</string>
-        <string>parar trânsito proximo</string>
+        <string>parar trânsito próximo</string>
         <string>parar trânsito</string>
 		<string>para todo o trânsito</string>
-        <string>para trânsito proximo</string>
+        <string>para trânsito próximo</string>
         <string>para trânsito</string>
     </Phrases>
 </Command>
