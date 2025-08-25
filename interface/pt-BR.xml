@@ -32,13 +32,13 @@
        <item name="Espinhos" action="spikestrips" />
     </menu>
     <menu name="Request">
-       <item name="Animal Controle" action="animal" />
+       <item name="Controle de Animais" action="animal" />
        <item name="Legista" action="coroner" />
        <item name="Pronto Socorro" action="ems" />
        <item name="Corpo Bombeiro" action="fire" />
        <item name="Seguro" action="insurance" />
        <item name="K9 Unidade" action="k9" />
-       <item name="Verificação do Ped" action="pedcheck" />
+       <item name="Verificação de Pessoa" action="pedcheck" />
        <item name="Verificação da Placamento" action="platecheck" />
        <item name="Verificação do Radio" action="radiocheck" />
        <item name="Número de Ticket" action="ticketnumber" />
