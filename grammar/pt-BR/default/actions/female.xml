@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Action>
+    <Name>female</Name>
+    <Commands>
+        <string>request</string>
+    </Commands>
+    <Phrases>
+        <string>feminino</string>
+		<string>apoio feminino</string>
+		<string>viatura feminino</string>
+    </Phrases>
+    <Target>GrammarPolice.Actions.Backup.Female</Target>
+</Action>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Action>
+    <Name>tow</Name>
+    <Commands>
+        <string>request</string>
+    </Commands>
+    <Phrases>
+        <string>guincho</string>
+        <string>caminhão de reboque</string>
+		<string>caminhão de guincho</string>
+    </Phrases>
+    <Target>GrammarPolice.Actions.Backup.Tow</Target>
+</Action>

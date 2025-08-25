@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Command>
+    <Name>officerdown</Name>
+    <Action>officerdown</Action>
+    <Phrases>
+        <string>policial baleado</string>
+		<string>policial foi baleado</string>
+		<string>policial abatido</string>
+		<string>policial foi abatido</string>
+        <string>temos um policial abatido</string>
+        <string>tem um policial abatido</string>
+        <string>temos um policial baleado</string>
+        <string>tem um policial baleado</string>
+		<string>oficial baleado</string>
+		<string>oficial foi baleado</string>
+		<string>oficial abatido</string>
+		<string>oficial foi abatido</string>
+        <string>temos um oficial abatido</string>
+        <string>tem um oficial abatido</string>
+        <string>temos um oficial baleado</string>
+        <string>tem um oficial baleado</string>
+		<string>soldado baleado</string>
+		<string>soldado foi baleado</string>
+		<string>soldado abatido</string>
+		<string>soldado foi abatido</string>
+        <string>temos um soldado abatido</string>
+        <string>tem um soldado abatido</string>
+        <string>temos um soldado baleado</string>
+        <string>tem um soldado baleado</string>
+    </Phrases>
+</Command>

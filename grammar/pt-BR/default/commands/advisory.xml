@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Command>
+    <Name>advisory</Name>
+    <Phrases>
+        <string>eu tenho</string>
+        <string>eu tenho o</string>
+        <string>eu tenho um</string>
+        <string>eu tenho uma</string>
+        <string>eu tenho dois</string>
+        <string>eu tenho três</string>
+        <string>eu tenho quatro</string>
+
+        <string>nós temos</string>
+        <string>nós temos o</string>
+        <string>nós temos um</string>
+        <string>nós temos uma</string>
+        <string>nós temos dois</string>
+        <string>nós temos três</string>
+        <string>nós temos quatro</string>
+		
+		<string>tem</string>
+        <string>tem o</string>
+        <string>tem um</string>
+        <string>tem uma</string>
+        <string>tem dois</string>
+        <string>tem três</string>
+        <string>tem quatro</string>
+      
+        <string>suspeito é</string>
+		<string>suspeito</string>
+		<string>cidadão é</string>
+		<string>cidadão</string>
+        <string>civil é</string>
+		<string>civil</string>
+		<string>indíviduo é</string>
+		<string>indíviduo</string>
+		<string>contato é</string>
+		<string>contato</string>
+    </Phrases>
+</Command>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Action>
+    <Name>pursuit</Name>
+    <Commands>
+        <string>status</string>
+    </Commands>
+    <Phrases>
+        <string>em perseguição</string>
+		<string>perseguição</string>
+		<string>em pinote</string>
+		<string>pinote</string>
+		<string>em acompanhamento</string>
+		<string>acompanhamento</string>
+    </Phrases>
+    <Target>GrammarPolice.Actions.Status.InPursuit</Target>
+</Action>

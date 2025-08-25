@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Action>
+    <Name>spikestrips</Name>
+    <Commands>
+        <string>request</string>
+    </Commands>
+    <Phrases>
+		<string>furo pneus</string>
+		<string>espinhos</string>
+		<string>apoio espinhos</string>
+        <string>spikes</string>
+        <string>spike strips</string>
+    </Phrases>
+    <Target>GrammarPolice.Actions.Backup.Spikestrips</Target>
+</Action>

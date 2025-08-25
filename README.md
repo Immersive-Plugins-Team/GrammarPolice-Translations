@@ -44,7 +44,7 @@ If you get stuck, visit the [IPT Support Server](https://discord.gg/AuJCUag). Th
 | nb-NO  | Norwegian Bokmål (Norway)                    | ❌     |
 | nl-NL  | Dutch (Netherlands)                          | ❌     |
 | pl-PL  | Polish (Poland)                              | ❌     |
-| pt-BR  | Portuguese (Brazil)                          | ❌     |
+| pt-BR  | Portuguese (Brazil)                          | ✅     |
 | pt-PT  | Portuguese (Portugal)                        | ❌     |
 | ru-RU  | Russian (Russia)                             | ✅     |
 | sv-SE  | Swedish (Sweden)                             | ❌     |

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Action>
+    <Name>k9</Name>
+    <Commands>
+        <string>request</string>
+    </Commands>
+    <Phrases>
+        <string>ka nove</string>
+		<string>canil</string>
+		<string>apoio ka nove</string>
+		<string>apoio canil</string>
+		<string>viatura ka nove</string>
+		<string>viatura canil</string>
+    </Phrases>
+    <Target>GrammarPolice.Actions.Backup.K9</Target>
+</Action>

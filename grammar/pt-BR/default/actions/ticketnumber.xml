@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Action>
+    <Name>ticketnumber</Name>
+    <Commands>
+        <string>request</string>
+    </Commands>
+    <Phrases>
+        <string>um número de bilhete</string>
+        <string>número do bilhete</string>
+		<string>número do ticket</string>
+    </Phrases>
+    <Target>GrammarPolice.Actions.Interactions.TicketNumber</Target>
+</Action>

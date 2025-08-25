@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Action>
+    <Name>code2state</Name>
+    <Commands>
+        <string>request</string>
+    </Commands>
+    <Phrases>
+        <string>código dois estado</string>
+        <string>apoio código dois estado</string>
+		<string>viatura código dois estado</string>
+        <string>dois estados</string>
+    </Phrases>
+    <Target>GrammarPolice.Actions.Backup.Code2State</Target>
+</Action>

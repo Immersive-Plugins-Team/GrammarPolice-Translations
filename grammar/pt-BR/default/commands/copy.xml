@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Command>
+    <Name>copy</Name>
+    <Action>copy</Action>
+    <Phrases>
+        <string>copiado</string>
+        <string>dez quatro</string>
+    </Phrases>
+</Command>

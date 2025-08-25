@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Action>
+    <Name>platecheck</Name>
+    <Commands>
+        <string>request</string>
+    </Commands>
+    <Phrases>
+        <string>placa</string>
+        <string>placamento</string>
+    </Phrases>
+    <Target>GrammarPolice.Actions.Computer.Platecheck</Target>
+</Action>

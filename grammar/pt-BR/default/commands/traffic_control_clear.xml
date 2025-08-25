@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Command>
+    <Name>traffic_control_clear</Name>
+    <Action>traffic_control_clear</Action>
+    <Phrases>
+		<string>limpar todo o trânsito</string>
+        <string>limpar trânsito</string>
+        <string>limpar controle de trânsito</string>
+		<string>cancelar todo o trânsito</string>
+        <string>cancelar trânsito</string>
+        <string>cancelar controle de trânsito</string>
+    </Phrases>
+</Command>

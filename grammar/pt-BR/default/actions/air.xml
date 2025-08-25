@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Action>
+    <Name>air</Name>
+    <Commands>
+        <string>request</string>
+    </Commands>
+    <Phrases>
+        <string>apoio aéreo</string>
+        <string>aéreo</string>
+		<string>suporte aéreo</string>
+		<string>helicóptero</string>
+		<string>apoio helicóptero</string>
+    </Phrases>
+    <Target>GrammarPolice.Actions.Backup.Air</Target>
+</Action>

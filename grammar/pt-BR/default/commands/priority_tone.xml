@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Command>
+    <Name>priority_tone</Name>
+    <Action>priority_tone</Action>
+    <Phrases>
+        <string>sinal cem</string>
+        <string>limpar sinal cem</string>
+        <string>cancelar sinal cem</string>
+    </Phrases>
+</Command>

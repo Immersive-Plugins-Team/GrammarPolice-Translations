@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Command>
+    <Name>accept</Name>
+    <Action>accept</Action>
+    <Phrases>
+        <string>a caminho</string>
+        <string>vou dar uma olhada</string>
+        <string>indo a caminho</string>
+        <string>respondendo</string>
+		<string>viatura caminho</string>
+    </Phrases>
+</Command>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Action>
+    <Name>trafficstopbackup</Name>
+    <Commands>
+        <string>request</string>
+    </Commands>
+    <Phrases>
+        <string>apoio abordagem</string>
+		<string>apoio na abordagem</string>
+		<string>abordagem</string>
+		<string>viatura abordagem</string>
+    </Phrases>
+    <Target>GrammarPolice.Actions.Backup.TrafficStopBackup</Target>
+</Action>
