@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<Action>
+<Name>accept</Name>
+<Commands>
+<string>status</string>
+</Commands>
+<Phrases>
+<string>på väg</string>
+<string>jag ansluter</string>
+<string>jag rullar på det</string>
+</Phrases>
+<Target>GrammarPolice.Actions.Callout.Accept</Target>
+</Action>

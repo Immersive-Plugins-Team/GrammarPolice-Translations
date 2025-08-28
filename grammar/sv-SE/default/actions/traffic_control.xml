@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Action>
+    <Name>traffic_control</Name>
+    <Commands>
+        <string>request</string>
+    </Commands>
+    <Phrases>
+        <string>trafikdirigering</string>
+    </Phrases>
+    <Target>GrammarPolice.Actions.Traffic.Control</Target>
+</Action>

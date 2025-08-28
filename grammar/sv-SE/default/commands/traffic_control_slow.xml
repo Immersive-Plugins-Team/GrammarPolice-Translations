@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Command>
+    <Name>traffic_control_slow</Name>
+    <Action>traffic_control_slow</Action>
+    <Phrases>
+        <string>sakta all trafik</string>
+        <string>sänk farten</string>
+        <string>sakta ner trafiken</string>
+    </Phrases>
+</Command>

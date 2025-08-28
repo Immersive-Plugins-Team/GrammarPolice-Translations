@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Action>
+    <Name>trafficstopbackup</Name>
+    <Commands>
+        <string>request</string>
+    </Commands>
+    <Phrases>
+        <string>en yttligare till trafikstopp</string>
+        <string>en till på detta</string>
+    </Phrases>
+    <Target>GrammarPolice.Actions.Backup.TrafficStopBackup</Target>
+</Action>

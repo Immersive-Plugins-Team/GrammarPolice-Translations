@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Command>
+    <Name>officerdown</Name>
+    <Action>officerdown</Action>
+    <Phrases>
+        <string>kollega nere</string>
+        <string>har en kollega nere</string>
+        <string>polis nere</string>
+    </Phrases>
+</Command>

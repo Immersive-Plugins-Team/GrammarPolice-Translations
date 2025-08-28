@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Action>
+    <Name>roadblock</Name>
+    <Commands>
+        <string>request</string>
+    </Commands>
+    <Phrases>
+        <string>genskjutning</string>
+        <string>vägblock</string>
+        <string>att ni stänger av vägen</string>
+    </Phrases>
+    <Target>GrammarPolice.Actions.Backup.Roadblock</Target>
+</Action>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Action>
+    <Name>pit</Name>
+    <Commands>
+        <string>request</string>
+    </Commands>
+    <Phrases>
+        <string>begär prejning</string>
+		<string>begär pitt</string>
+        <string>begär att trycka bilen</string>
+        <string>begär att få trycka bilen</string>
+        <string>vi vill trycka bilen</string>
+    </Phrases>
+    <Target>GrammarPolice.Actions.Backup.Pit</Target>
+</Action>

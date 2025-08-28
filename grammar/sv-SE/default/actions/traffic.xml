@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Action>
+    <Name>traffic</Name>
+    <Commands>
+        <string>status</string>
+    </Commands>
+    <Phrases>
+        <string>fordonsstopp</string>
+        <string>stoppat ett fordon</string>
+        <string>trafikstopp</string>
+    </Phrases>
+    <Target>GrammarPolice.Actions.Status.TrafficStop</Target>
+</Action>

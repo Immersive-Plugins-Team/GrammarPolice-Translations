@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Action>
+    <Name>insurance</Name>
+    <Commands>
+        <string>request</string>
+    </Commands>
+    <Phrases>
+        <string>kronofogden</string>
+        <string>fogden</string>
+        <string>utmätning</string>
+	<string>kronofogde</string>
+	<string>fogde</string>
+    </Phrases>
+    <Target>GrammarPolice.Actions.Backup.Insurance</Target>
+</Action>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<interface>
+    <menu name="Advisory">
+        <item name="Misshandel" action="fight" />
+        <item name="Avliden person" action="person_deceased" />
+        <item name="Skadad person" action="person_injured" />
+        <item name="Gärningsman gripen" action="suspect_custody" />
+        <item name="Tappat visuell" action="suspect_lost" />
+        <item name="Visuell" action="visual" />
+    </menu>
+    <menu name="Backup">
+       <item name="PRIO 2" action="code2" />
+       <item name="PRIO 2 regional" action="code2state" />
+       <item name="PRIO 3" action="code3" />
+       <item name="PRIO 3 regional" action="code3state" />
+       <item name="Högriskstopp" action="felonystopbackup" />
+       <item name="Kvinnlig polis" action="female" />
+       <item name="NI" action="noose" />
+       <item name="FRI" action="swat" />
+       <item name="Fordonsstopp" action="trafficstopbackup" />
+    </menu>
+    <menu name="Interaktion">
+       <item name="Positivt" action="yes" />
+       <item name="Negativt" action="no" />
+       <item name="Avsluta kontroller" action="cancel_checks" />
+       <item name="Situation kontrollerad" action="normal" />
+    </menu>
+    <menu name="Förföljande">
+       <item name="Helikopter" action="air" />
+       <item name="Prejningsbegäran" action="pit" />
+       <item name="Vägblockad" action="roadblock" />
+       <item name="Spikmatta" action="spikestrips" />
+    </menu>
+    <menu name="Begär">
+       <item name="Jaktlag" action="animal" />
+       <item name="Rättsmedicinsk tekniker" action="coroner" />
+       <item name="Ambulans" action="ems" />
+       <item name="Räddningstjänst" action="fire" />
+       <item name="Kronofogden" action="insurance" />
+       <item name="Hundenhet" action="k9" />
+       <item name="Personslagning" action="pedcheck" />
+       <item name="Fordonsslagning" action="platecheck" />
+       <item name="Förbindelseprov" action="radiocheck" />
+       <item name="Larmnummer" action="ticketnumber" />
+       <item name="Bärgningsbil" action="tow" />
+       <item name="Transport" action="transport" />
+       <item name="Fordon" action="vehicle" />
+    </menu>
+    <menu name="Status">
+       <item name="Tillgänglig" action="available" />
+       <item name="Upptagen" action="busy" />
+       <item name="Avslutat" action="code4" />
+       <item name="I förföljande" action="pursuit" />
+       <item name="Undersöker" action="investigating" />
+       <item name="Rast" action="mealbreak" />
+       <item name="Patrullande" action="onpatrol" />
+       <item name="Ur tjänst" action="outofservice" />
+       <item name="Återgår till sation" action="station" />
+       <item name="På plats" action="scene" />
+       <item name="Fordonsstopp" action="traffic" />
+    </menu>
+    <menu name="Trafik">
+       <item name="Sakta ner trafik" action="traffic_control_slow" />
+       <item name="Stoppa trafik" action="traffic_control_stop" />
+       <item name="Avsluta trafikzon" action="traffic_control_clear" />
+    </menu>
+</interface>

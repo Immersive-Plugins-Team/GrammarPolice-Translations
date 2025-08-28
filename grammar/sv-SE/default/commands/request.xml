@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Command>
+    <Name>request</Name>
+    <Phrases>
+        <string>kan vi</string>
+        <string>kan du</string>
+        <string>skulle du</string>
+        <string>skulle du kunna</string>
+        <string>önskar</string>
+        <string>behöver</string>
+        <string>skicka en</string>
+        <string>skicka</string>
+        <string>begär</string>
+        <string>kalla på</string>
+    </Phrases>
+</Command>

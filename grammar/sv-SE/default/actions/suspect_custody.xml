@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Action>
+    <Name>suspect_custody</Name>
+    <Commands>
+        <string>advisory</string>
+    </Commands>
+    <Phrases>
+        <string>gärningsman gripen</string>
+        <string>en kontrollerad</string>
+        <string>en gripen</string>
+        <string>bojad</string>
+        <string>en bojad</string>
+        <string>alla gripna</string>
+    </Phrases>
+    <Target>GrammarPolice.Actions.Advisory.SuspectCustody</Target>
+</Action>

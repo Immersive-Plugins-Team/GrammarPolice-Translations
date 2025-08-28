@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Command>
+    <Name>normal</Name>
+    <Action>normal</Action>
+    <Phrases>
+        <string>situationen lugn</string>
+        <string>jag mår bra</string>
+    </Phrases>
+</Command>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Action>
+    <Name>station</Name>
+    <Commands>
+        <string>status</string>
+    </Commands>
+    <Phrases>
+        <string>återgår till station</string>
+		<string>rör sig mot station</string>
+        <string>rullar mot station</string>
+    </Phrases>
+    <Target>GrammarPolice.Actions.Status.ReturnToStation</Target>
+</Action>

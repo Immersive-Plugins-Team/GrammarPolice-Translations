@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Action>
+    <Name>mealbreak</Name>
+    <Commands>
+        <string>status</string>
+    </Commands>
+    <Phrases>
+        <string>går på rast</string>
+        <string>går på lunch</string>
+    </Phrases>
+    <Target>GrammarPolice.Actions.Status.MealBreak</Target>
+</Action>

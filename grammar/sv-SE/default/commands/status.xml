@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Command>
+    <Name>status</Name>
+    <Phrases>
+        <string>vi</string>
+        <string>jag</string>
+        <string>status</string>
+    </Phrases>
+</Command>

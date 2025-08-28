@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Command>
+    <Name>advise</Name>
+    <Action>advise</Action>
+    <Phrases>
+        <string>för information</string>
+        <string>notera</string>
+        <string>det är</string>
+    </Phrases>
+</Command>

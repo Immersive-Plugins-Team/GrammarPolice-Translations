@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Action>
+    <Name>pedcheck</Name>
+    <Commands>
+        <string>request</string>
+    </Commands>
+    <Phrases>
+        <string>I D kontroll</string>
+        <string>körkortskontroll</string>
+        <string>körkorts kontroll</string>
+        <string>personkontroll</string>
+        <string>slagning på person</string>
+    </Phrases>
+    <Target>GrammarPolice.Actions.Computer.Pedcheck</Target>
+</Action>

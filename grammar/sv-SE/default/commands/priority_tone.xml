@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Command>
+    <Name>priority_tone</Name>
+    <Action>priority_tone</Action>
+    <Phrases>
+        <string>radiotystnad</string>
+    </Phrases>
+</Command>

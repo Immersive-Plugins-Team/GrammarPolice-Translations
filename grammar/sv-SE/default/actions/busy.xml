@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Action>
+<Name>busy</Name>
+<Commands>
+<string>status</string>
+</Commands>
+<Phrases>
+<string>upptagen</string>
+<string>otillgänglig</string>
+<string>upptagna</string>
+</Phrases>
+<Target>GrammarPolice.Actions.Status.Busy</Target>
+</Action>

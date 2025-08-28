@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Command>
+    <Name>cancel_checks</Name>
+    <Action>cancel_checks</Action>
+    <Phrases>
+        <string>avbryt kontroll</string>
+        <string>allt under kontroll</string>
+    </Phrases>
+</Command>

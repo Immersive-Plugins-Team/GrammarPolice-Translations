@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Command>
+    <Name>occupied</Name>
+    <Phrases>
+<string>jag har en fyradörrars</string>
+<string>jag har en tvådörrars</string>
+<string>jag har en sedan</string>
+<string>jag har en coupé</string>
+<string>jag har en fyrhjuling</string>
+<string>jag har en golfbil</string>
+<string>jag har en motorcykel</string>
+<string>jag har en cykel</string>
+<string>vi har en fyradörrars</string>
+<string>vi har en tvådörrars</string>
+<string>vi har en sedan</string>
+<string>vi har en coupé</string>
+<string>vi har en fyrhjuling</string>
+<string>vi har en golfbil</string>
+<string>vi har en motorcykel</string>
+<string>vi har en cykel</string>
+    </Phrases>
+</Command>

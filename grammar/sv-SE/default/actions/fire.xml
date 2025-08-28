@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Action>
+    <Name>fire</Name>
+    <Commands>
+        <string>request</string>
+    </Commands>
+    <Phrases>
+        <string>räddningstjänst</string>
+        <string>räddningstjänsten</string>
+        <string>brandkår</string>
+        <string>brandkåren</string>
+    </Phrases>
+    <Target>GrammarPolice.Actions.Backup.Fire</Target>
+</Action>

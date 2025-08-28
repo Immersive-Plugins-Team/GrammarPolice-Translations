@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Action>
+    <Name>occupied_2</Name>   
+    <Commands>
+        <string>occupied</string>
+    </Commands>
+    <Phrases>
+        <string>två i fordonet ingen förstärkning önskas</string>
+        <string>två i bilen men lugnt</string>
+        <string>två i fordonet inga yttligare önskas</string>
+        <string>en i fordonet ingen förstärkning önskas</string>
+        <string>en i bilen men lugnt</string>
+        <string>en i fordonet inga yttligare önskas</string>
+        <string>tre i fordonet ingen förstärkning önskas</string>
+        <string>tre i bilen men lugnt</string>
+        <string>tre i fordonet inga yttligare önskas</string>
+    </Phrases>	
+    <Target>GrammarPolice.Actions.Status.TrafficStop</Target>
+    <Parameters>
+        <Parameter>
+            <Type>System.Int32</Type>
+            <Value>2</Value>
+        </Parameter>
+    </Parameters>
+</Action>

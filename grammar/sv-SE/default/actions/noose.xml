@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Action>
+    <Name>noose</Name>
+    <Commands>
+        <string>request</string>
+    </Commands>
+    <Phrases>
+        <string>N I</string>
+        <string>Nationella</string>
+        <string>Nationella insatsstyrkan</string>
+        <string>Gröningarna</string>
+        <string>de gröna</string>
+    </Phrases>
+    <Target>GrammarPolice.Actions.Backup.Noose</Target>
+</Action>

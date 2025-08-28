@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Command>
+    <Name>preface</Name>
+    <Action>preface</Action>
+    <Phrases>
+        <string>tre noll</string>
+        <string>R L C</string>
+        <string>från nittio tre tio</string>
+        <string>nittio tre tio</string>
+        <string>jag</string>
+        <string>vi</string>
+    </Phrases>
+</Command>

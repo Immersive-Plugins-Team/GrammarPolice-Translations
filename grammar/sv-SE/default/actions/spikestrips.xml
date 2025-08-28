@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Action>
+    <Name>spikestrips</Name>
+    <Commands>
+        <string>request</string>
+    </Commands>
+    <Phrases>
+        <string>spik</string>
+        <string>matta</string>
+        <string>kunna kasta matta</string>
+        <string>spikmatta</string>
+    </Phrases>
+    <Target>GrammarPolice.Actions.Backup.Spikestrips</Target>
+</Action>

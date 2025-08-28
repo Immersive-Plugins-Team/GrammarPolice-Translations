@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Action>
+    <Name>occupied_1</Name>   
+    <Commands>
+        <string>occupied</string>
+    </Commands>
+    <Phrases>
+        <string>twå i fordonet</string>
+        <string>två i bilen</string>
+        <string>två personer i fordonet</string>
+        <string>två personer i bilen</string>
+    </Phrases>	
+    <Target>GrammarPolice.Actions.Status.TrafficStop</Target>
+    <Parameters>
+        <Parameter>
+            <Type>System.Int32</Type>
+            <Value>1</Value>
+        </Parameter>
+    </Parameters>
+</Action>

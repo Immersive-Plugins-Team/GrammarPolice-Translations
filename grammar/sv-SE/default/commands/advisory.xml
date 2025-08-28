@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Command>
+    <Name>advisory</Name>
+    <Phrases>
+        <string>jag har</string>
+        <string>jag har en</string>
+        <string>jag har två</string>
+        <string>jag har den</string>
+        <string>jag har dem</string>
+        <string>jag har tre</string>
+        <string>jag har fyra</string>
+        <string>jag har fem</string>
+
+        <string>vi har</string>
+        <string>vi har en</string>
+        <string>vi har två</string>
+        <string>vi har den</string>
+        <string>vi har dem</string>
+        <string>vi har tre</string>
+        <string>vi har fyra</string>
+        <string>vi har fem</string>
+      
+        <string>gärningsman är</string>
+        <string>civil är</string>
+    </Phrases>
+</Command>

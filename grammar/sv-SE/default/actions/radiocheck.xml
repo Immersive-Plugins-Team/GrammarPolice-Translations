@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Action>
+    <Name>radiocheck</Name>
+    <Commands>
+        <string>request</string>
+    </Commands>
+    <Phrases>
+        <string>förbindelseprov</string>
+    </Phrases>
+    <Target>GrammarPolice.Actions.Status.RadioCheck</Target>
+</Action>

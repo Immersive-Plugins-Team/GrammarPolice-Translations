@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Action>
+    <Name>pursuit</Name>
+    <Commands>
+        <string>status</string>
+    </Commands>
+    <Phrases>
+        <string>i jagis</string>
+        <string>inleder efterföljande</string>
+        <string>inleder förföljande</string>
+        <string>han drar</string>
+        <string>har springjagis</string>
+        <string>har biljakt</string>
+        <string>inleder biljakt</string>
+    </Phrases>
+    <Target>GrammarPolice.Actions.Status.InPursuit</Target>
+</Action>

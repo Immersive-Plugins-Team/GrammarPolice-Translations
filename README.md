@@ -47,7 +47,7 @@ If you get stuck, visit the [IPT Support Server](https://discord.gg/AuJCUag). Th
 | pt-BR  | Portuguese (Brazil)                          | ❌     |
 | pt-PT  | Portuguese (Portugal)                        | ❌     |
 | ru-RU  | Russian (Russia)                             | ✅     |
-| sv-SE  | Swedish (Sweden)                             | ❌     |
+| sv-SE  | Swedish (Sweden)                             | ✅     |
 | zh-CN  | Chinese (Mainland China, Simplified)         | ❌     |
 | zh-HK  | Chinese (Hong Kong, Traditional)             | ❌     |
 | zh-TW  | Chinese (Taiwan, Traditional)                | ❌     |

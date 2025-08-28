@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Command>
+    <Name>traffic_control_stop</Name>
+    <Action>traffic_control_stop</Action>
+    <Phrases>
+        <string>stoppa trafiken</string>
+        <string>stäng av vägen</string>
+        <string>stäng vägen</string>
+    </Phrases>
+</Command>

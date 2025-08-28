@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Command>
+    <Name>clear</Name>
+    <Action>clear</Action>
+    <Phrases>
+        <string>jag avbryer</string>
+        <string>jag avviker</string>
+    </Phrases>
+</Command>

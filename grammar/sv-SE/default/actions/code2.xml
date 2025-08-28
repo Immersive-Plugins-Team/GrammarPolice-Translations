@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<Action>
+<Name>code2</Name>
+<Commands>
+<string>request</string>
+</Commands>
+<Phrases>
+<string>förstärkning prio två</string>
+<string>behöver prio två backup</string>
+<string>prio två assistans</string>
+<string>behöver assistans prio två</string>
+</Phrases>
+<Target>GrammarPolice.Actions.Backup.Code2</Target>
+</Action>

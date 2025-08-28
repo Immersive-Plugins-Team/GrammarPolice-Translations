@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Action>
+    <Name>ems</Name>
+    <Commands>
+        <string>request</string>
+    </Commands>
+    <Phrases>
+        <string>ambulans</string>
+        <string>sjukvården</string>
+        <string>sjukvård</string>
+    </Phrases>
+    <Target>GrammarPolice.Actions.Backup.EMS</Target>
+</Action>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Action>
+    <Name>outofservice</Name>
+    <Commands>
+        <string>status</string>
+    </Commands>
+    <Phrases>
+        <string>kliver ur</string>
+        <string>ur tjänst</string>
+        <string>stämplar ut</string>
+    </Phrases>
+    <Target>GrammarPolice.Actions.Status.OutOfService</Target>
+</Action>

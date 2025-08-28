@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Command>
+    <Name>no</Name>
+    <Action>no</Action>
+    <Phrases>
+        <string>nej</string>
+        <string>negativt</string>
+    </Phrases>
+</Command>
