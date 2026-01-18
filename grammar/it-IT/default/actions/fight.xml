@@ -5,8 +5,8 @@
         <string>advisory</string>
     </Commands>
     <Phrases>
-        <string>lotta in corso</string>
-        <string>lotta</string>
+        <string>rissa in corso</string>
+        <string>combattendo</string>
     </Phrases>
     <Target>GrammarPolice.Actions.Advisory.Fight</Target>
 </Action>

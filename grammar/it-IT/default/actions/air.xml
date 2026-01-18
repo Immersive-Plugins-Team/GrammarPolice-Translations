@@ -6,7 +6,7 @@
     </Commands>
     <Phrases>
         <string>supporto aereo</string>
-        <string>richiesta unità aerea</string>
+        <string>unita aerea</string>
     </Phrases>
     <Target>GrammarPolice.Actions.Backup.Air</Target>
 </Action>

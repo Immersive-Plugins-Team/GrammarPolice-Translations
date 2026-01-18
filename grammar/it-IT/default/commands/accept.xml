@@ -3,9 +3,9 @@
     <Name>accept</Name>
     <Action>accept</Action>
     <Phrases>
-        <string>mostrami il percorso</string>
-        <string>Darò un'occhiata</string>
-        <string>sto arrivando</string>
-        <string>sto rispondendo</string>
+        <string>convergo</string>
+        <string>Lo controllo</string>
+        <string>in arrivo</string>
+        <string>rispondo</string>
     </Phrases>
 </Command>

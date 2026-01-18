@@ -5,8 +5,8 @@
         <string>request</string>
     </Commands>
     <Phrases>
-        <string>buco</string>
-		<string>manovra pit</string>
+        <string>speronamento</string>
+		<string>manovra di speronamento</string>
     </Phrases>
     <Target>GrammarPolice.Actions.Backup.Pit</Target>
 </Action>

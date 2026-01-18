@@ -5,9 +5,9 @@
         <string>request</string>
     </Commands>
     <Phrases>
-        <string>un'auto</string>
+        <string>una macchina</string>
         <string>un veicolo</string>
-        <string>un giro</string>
+        <string>in giro</string>
     </Phrases>
     <Target>GrammarPolice.Actions.Backup.Vehicle</Target>
 </Action>

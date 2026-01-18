@@ -3,7 +3,7 @@
     <Name>copy</Name>
     <Action>copy</Action>
     <Phrases>
-        <string>copia</string>
+        <string>ricevuto</string>
         <string>dieci quattro</string>
     </Phrases>
 </Command>

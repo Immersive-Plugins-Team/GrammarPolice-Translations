@@ -5,8 +5,8 @@
         <string>request</string>
     </Commands>
     <Phrases>
-        <string>unità swat</string>
-        <string>unità tattica</string>
+        <string>unita gis</string>
+        <string>unita tattica</string>
     </Phrases>
     <Target>GrammarPolice.Actions.Backup.Swat</Target>
 </Action>

@@ -6,7 +6,7 @@
     </Commands>
     <Phrases>
         <string>occupato</string>
-        <string>non disponibile</string>
+        <string>indisponbile</string>
     </Phrases>
     <Target>GrammarPolice.Actions.Status.Busy</Target>
 </Action>

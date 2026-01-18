@@ -5,8 +5,8 @@
         <string>status</string>
     </Commands>
     <Phrases>
-        <string>mostrami il percorso</string>
-        <string>sto arrivando</string>
+        <string>convergo</string>
+        <string>in arrivo</string>
         <string>rispondo</string>
     </Phrases>
     <Target>GrammarPolice.Actions.Callout.Accept</Target>

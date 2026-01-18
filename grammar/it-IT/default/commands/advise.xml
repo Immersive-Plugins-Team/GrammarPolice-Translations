@@ -3,6 +3,6 @@
     <Name>advise</Name>
     <Action>advise</Action>
     <Phrases>
-        <string>essere avvisato</string>
+        <string>avviso</string>
     </Phrases>
 </Command>

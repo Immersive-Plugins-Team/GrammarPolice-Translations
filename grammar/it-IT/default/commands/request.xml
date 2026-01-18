@@ -4,14 +4,14 @@
     <Phrases>
         <string>posso avere un</string>
         <string>codice</string>
-        <string>Ho bisogno di</string>
-        <string>Ho bisogno di un</string>
-        <string>Ho bisogno di una</string>
-        <string>Mi serve un po’</string>
-        <string>richiesta</string>
-        <string>sto chiedendo</string>
-        <string>controllami</string>
-        <string>invia</string>
+        <string>ho bisogno</string>
+        <string>ho bisogno di un</string>
+        <string>ho bisogno di una</string>
+        <string>Ho bisogno di un po'</string>
+        <string>richiedo</string>
+        <string>richiedo</string>
+        <string>girami</string>
+        <string>manda</string>
         <string>abbiamo bisogno</string>
     </Phrases>
 </Command>

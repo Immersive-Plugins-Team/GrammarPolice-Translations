@@ -3,7 +3,7 @@
     <Name>yes</Name>
     <Action>yes</Action>
     <Phrases>
-        <string>sì</string>
+        <string>si</string>
         <string>affermativo</string>
     </Phrases>
 </Command>

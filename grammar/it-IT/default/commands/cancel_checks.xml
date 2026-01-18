@@ -4,6 +4,6 @@
     <Action>cancel_checks</Action>
     <Phrases>
         <string>annulla</string>
-        <string>annulla situazione normale</string>
+        <string>situazione normale annulla</string>
     </Phrases>
 </Command>

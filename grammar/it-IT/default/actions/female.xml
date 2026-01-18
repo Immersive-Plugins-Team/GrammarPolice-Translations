@@ -5,8 +5,8 @@
         <string>request</string>
     </Commands>
     <Phrases>
-        <string>femmina</string>
-        <string>ufficiale femmina</string>
+        <string>donna</string>
+        <string>agente donna</string>
     </Phrases>
     <Target>GrammarPolice.Actions.Backup.Female</Target>
 </Action>

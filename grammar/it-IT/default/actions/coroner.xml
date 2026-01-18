@@ -5,8 +5,8 @@
         <string>request</string>
     </Commands>
     <Phrases>
-        <string>medico legale</string>
-        <string>C S I</string>
+        <string>scentifica</string>
+        <string>R I S</string>
     </Phrases>
     <Target>GrammarPolice.Actions.Backup.Coroner</Target>
 </Action>

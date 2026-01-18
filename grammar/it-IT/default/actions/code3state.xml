@@ -5,11 +5,11 @@
         <string>request</string>
     </Commands>
     <Phrases>
-        <string>rinforzo dello stato</string>
-        <string>poliziotto dello stato</string>
-        <string>codice a due stati</string>
-        <string>codice tre richiedo rinforzi</string>
-        <string>tre stato</string>
+        <string>rinforzi statali</string>
+        <string>truppe statali</string>
+        <string>codice tre statale</string>
+        <string>codice tre rinforzi statali</string>
+        <string>tre statale</string>
     </Phrases>
     <Target>GrammarPolice.Actions.Backup.Code3State</Target>
 </Action>

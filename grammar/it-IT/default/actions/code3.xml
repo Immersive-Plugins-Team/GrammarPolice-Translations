@@ -5,11 +5,11 @@
         <string>request</string>
     </Commands>
     <Phrases>
-        <string>Supporto aggiuntivi</string>
-        <string>unità aggiuntive</string>
-        <string>Supporto urgente</string>
+        <string>rinforzi aggiuntivi</string>
+        <string>unita aggiuntive</string>
+        <string>rinforzi</string>
         <string>codice tre</string>
-        <string>codice tre rinforzi</string>
+        <string>rinforzi codice tre</string>
         <string>tre</string>
     </Phrases>
     <Target>GrammarPolice.Actions.Backup.Code3</Target>

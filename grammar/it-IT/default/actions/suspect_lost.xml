@@ -5,9 +5,9 @@
         <string>advisory</string>
     </Commands>
     <Phrases>
-        <string>perso di vista</string>
-        <string>abbiamo perso la visuale sul sospetto</string>
-		<string>sospetto fuggito</string>
+        <string>visuale persa</string>
+        <string>visuale del sospetto persa</string>
+		<string>sospetto perso</string>
     </Phrases>	
     <Target>GrammarPolice.Actions.Advisory.SuspectLost</Target>
 </Action>

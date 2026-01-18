@@ -4,7 +4,7 @@
     <Action>taser</Action>
     <Phrases>
         <string>taser</string>
-		<string>taser utilizzato</string>
-		<string>il taser è stato utilizzato</string>
+		<string>taser schierato</string>
+		<string>taser è stato schierato</string>
     </Phrases>
 </Command>

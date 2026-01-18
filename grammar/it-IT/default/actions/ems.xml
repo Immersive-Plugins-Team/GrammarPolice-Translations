@@ -6,9 +6,9 @@
     </Commands>
     <Phrases>
         <string>ambulanza</string>
-        <string>Servizi Medici di Emergenza</string>
+        <string>Croce rossa</string>
         <string>medico</string>
-        <string>paramedico</string>
+        <string>soccoritori</string>
     </Phrases>
     <Target>GrammarPolice.Actions.Backup.EMS</Target>
 </Action>

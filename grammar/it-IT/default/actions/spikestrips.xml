@@ -5,7 +5,7 @@
         <string>request</string>
     </Commands>
     <Phrases>
-        <string>chiodi</string>
+        <string>strisce chiodate</string>
         <string>strisce chiodate</string>
     </Phrases>
     <Target>GrammarPolice.Actions.Backup.Spikestrips</Target>

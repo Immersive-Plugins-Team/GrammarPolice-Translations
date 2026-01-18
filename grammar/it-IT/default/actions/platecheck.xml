@@ -6,7 +6,7 @@
     </Commands>
     <Phrases>
         <string>targa</string>
-        <string>controllo della targa</string>
+        <string>controllo targa</string>
     </Phrases>
     <Target>GrammarPolice.Actions.Computer.Platecheck</Target>
 </Action>

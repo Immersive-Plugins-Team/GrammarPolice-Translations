@@ -6,10 +6,10 @@
     </Commands>
     <Phrases>
         <string>assicurazione</string>
-        <string>compagnia di assicurazione</string>
-        <string>servizio di assicurazione</string>
-	<string>agente di assicurazione</string>
-	<string>agenzia di assicurazione</string>
+        <string>compagnia assicurativa</string>
+        <string>servizio assicurativo</string>
+	<string>agente assicurativo</string>
+	<string>agenzia assicurativa</string>
     </Phrases>
     <Target>GrammarPolice.Actions.Backup.Insurance</Target>
 </Action>

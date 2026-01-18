@@ -2,10 +2,10 @@
 <Command>
     <Name>status</Name>
     <Phrases>
-        <string>andare</string>
-        <string>Vado</string>
-        <string>Io sono</string>
-        <string>Sto andando</string>
+        <string>andando</string>
+        <string>sto andando</string>
+        <string>sto</string>
+        <string>sto andando</string>
         <string>mostrami</string>
         <string>mostraci</string>
         <string>dieci</string>

@@ -5,8 +5,8 @@
         <string>request</string>
     </Commands>
     <Phrases>
-        <string>unità noose</string>
-        <string>unità tattica noose</string>
+        <string>unita nocs</string>
+        <string>nocs</string>
     </Phrases>
     <Target>GrammarPolice.Actions.Backup.Noose</Target>
 </Action>

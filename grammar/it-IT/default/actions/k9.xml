@@ -5,8 +5,8 @@
         <string>request</string>
     </Commands>
     <Phrases>
-        <string>cinofila</string>
-        <string>unità cinofila</string>
+        <string>canina</string>
+        <string>unita canina</string>
     </Phrases>
     <Target>GrammarPolice.Actions.Backup.K9</Target>
 </Action>

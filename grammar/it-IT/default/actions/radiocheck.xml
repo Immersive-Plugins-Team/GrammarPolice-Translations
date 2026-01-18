@@ -5,7 +5,7 @@
         <string>request</string>
     </Commands>
     <Phrases>
-        <string>controllo radio</string>
+        <string>check radio</string>
     </Phrases>
     <Target>GrammarPolice.Actions.Status.RadioCheck</Target>
 </Action>

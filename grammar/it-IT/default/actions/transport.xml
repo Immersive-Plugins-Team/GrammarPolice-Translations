@@ -5,8 +5,8 @@
         <string>request</string>
     </Commands>
     <Phrases>
-        <string>trasporto detenuti</string>
-        <string>trasporto</string>
+        <string>trasporto carcerario</string>
+        <string>transporto</string>
     </Phrases>
     <Target>GrammarPolice.Actions.Backup.Transport</Target>
 </Action>

@@ -4,7 +4,7 @@
     <Action>priority_tone</Action>
     <Phrases>
         <string>segnale cento</string>
-        <string>disattiva il segnale cento</string>
-        <string>annulla il segnale cento</string>
+        <string>segnale pulito cento</string>
+        <string>cancella segnale cento</string>
     </Phrases>
 </Command>

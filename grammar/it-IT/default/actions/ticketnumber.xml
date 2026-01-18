@@ -1,12 +1,12 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <Action>
     <Name>ticketnumber</Name>
     <Commands>
         <string>request</string>
     </Commands>
     <Phrases>
-        <string>un numero di multa</string>
-        <string>numero della multa</string>
+        <string>un numero di una multa</string>
+        <string>numero multa</string>
     </Phrases>
     <Target>GrammarPolice.Actions.Interactions.TicketNumber</Target>
 </Action>

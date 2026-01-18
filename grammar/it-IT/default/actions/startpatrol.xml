@@ -5,7 +5,7 @@
         <string>status</string>
     </Commands>
     <Phrases>
-        <string>inizio del turno di pattuglia</string>
+        <string>inizio pattugliamento</string>
         <string>dieci quarantuno</string>
     </Phrases>
     <Target>GrammarPolice.Actions.Status.StartPatrol</Target>

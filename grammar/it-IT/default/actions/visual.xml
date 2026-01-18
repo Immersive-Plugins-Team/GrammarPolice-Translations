@@ -5,9 +5,9 @@
         <string>advisory</string>
     </Commands>
     <Phrases>
-        <string>contatto visivo</string>
-        <string>contatto visivo con il sospetto</string>
+        <string>visuale</string>
         <string>sospetto avvistato</string>
+        <string>sospetto in vista</string>
         <string>in vista</string>
     </Phrases>
     <Target>GrammarPolice.Actions.Advisory.Visual</Target>

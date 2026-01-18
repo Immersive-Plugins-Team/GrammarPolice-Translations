@@ -5,9 +5,9 @@
         <string>request</string>
     </Commands>
     <Phrases>
-        <string>codice a due stati</string>
-        <string>richiedo supporto in codice due</string>
-        <string>a due stati</string>
+        <string>codice due statale</string>
+        <string>codice due rinforzi statali</string>
+        <string>due statale</string>
     </Phrases>
     <Target>GrammarPolice.Actions.Backup.Code2State</Target>
 </Action>

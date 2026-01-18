@@ -5,8 +5,8 @@
         <string>status</string>
     </Commands>
     <Phrases>
-        <string>ritorno alla stazione</string>
-		<string>ritorno con il sospetto</string>
+        <string>ritorno alla centrale</string>
+		<string>ritorno con il sospettato</string>
     </Phrases>
     <Target>GrammarPolice.Actions.Status.ReturnToStation</Target>
 </Action>

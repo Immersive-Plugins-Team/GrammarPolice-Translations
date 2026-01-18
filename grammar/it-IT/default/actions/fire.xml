@@ -6,7 +6,7 @@
     </Commands>
     <Phrases>
         <string>incendio</string>
-        <string>incendio e soccorso</string>
+        <string>vigili del fuoco e soccorso</string>
         <string>vigili del fuoco</string>
     </Phrases>
     <Target>GrammarPolice.Actions.Backup.Fire</Target>

@@ -5,12 +5,12 @@
         <string>occupied</string>
     </Commands>
     <Phrases>
-        <string>impegnato una volta, nessun altro intervento</string>
-        <string>impegnato due volte, nessun altro intervento</string>
-        <string>impegnato tre volte, nessun altro intervento</string>
-        <string>impegnato una volta, nessun rinforzo richiesto</string>
-        <string>impegnato due volte, nessun rinforzo richiesto</string>
-        <string>impegnato tre volte, nessun rinforzo richiesto</string>
+        <string>occupato una volta no addizionali</string>
+        <string>occupato due volte no addizionali</string>
+        <string>occupato tre volte no addizionali</string>
+        <string>occupato una volta no rinforzi</string>
+        <string>occupato due volta no rinforzi</string>
+        <string>occupato tre volta no rinforzi</string>
     </Phrases>	
     <Target>GrammarPolice.Actions.Status.TrafficStop</Target>
     <Parameters>

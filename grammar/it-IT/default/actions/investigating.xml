@@ -5,7 +5,7 @@
         <string>status</string>
     </Commands>
     <Phrases>
-        <string>indagando</string>
+        <string>investigando</string>
     </Phrases>
     <Target>GrammarPolice.Actions.Status.Investigating</Target>
 </Action>

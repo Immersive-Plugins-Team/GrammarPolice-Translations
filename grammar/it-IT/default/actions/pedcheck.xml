@@ -6,7 +6,7 @@
     </Commands>
     <Phrases>
         <string>controllo ped</string>
-        <string>controllo pedonale</string>
+        <string>controllo pedone</string>
     </Phrases>
     <Target>GrammarPolice.Actions.Computer.Pedcheck</Target>
 </Action>

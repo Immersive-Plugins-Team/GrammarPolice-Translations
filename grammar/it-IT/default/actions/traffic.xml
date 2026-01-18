@@ -5,8 +5,8 @@
         <string>status</string>
     </Commands>
     <Phrases>
-        <string>in un controllo del traffico</string>
-        <string>in una fermata</string>
+        <string>in un fermo stradale</string>
+        <string>in un fermo</string>
     </Phrases>
     <Target>GrammarPolice.Actions.Status.TrafficStop</Target>
 </Action>

@@ -2,25 +2,25 @@
 <Command>
     <Name>advisory</Name>
     <Phrases>
-        <string>Io ho</string>
-        <string>Ho il</string>
-        <string>Ho un</string>
-        <string>Ho una</string>
-        <string>Ne ho uno</string>
-        <string>Ne ho due</string>
-        <string>Ne ho tre</string>
-        <string>Ne ho quattro</string>
+        <string>ho</string>
+        <string>ho il</string>
+        <string>ho un</string>
+        <string>ho una</string>
+        <string>ho uno</string>
+        <string>ho due</string>
+        <string>ho tre</string>
+        <string>ho quatro</string>
 
-        <string>noi abbiamo</string>
-        <string>noi abbiamo il</string>
-        <string>noi abbiamo un</string>
-        <string>noi abbiamo una</string>
-        <string>ne abbiamo una</string>
-        <string>ne abbiamo due</string>
-        <string>ne abbiamo tre</string>
-        <string>ne abbiamo quattro</string>
+        <string>abbiamo</string>
+        <string>abbiamo la</string>
+        <string>abbiamo un</string>
+        <string>abbiamo una</string>
+        <string>abbiamo uno</string>
+        <string>abbiamo due</string>
+        <string>abbiamo tre</string>
+        <string>abbiamo quatro</string>
       
-        <string>il sospetto è</string>
-        <string>il civile è</string>
+        <string>il sospetto e</string>
+        <string>il civile e</string>
     </Phrases>
 </Command>

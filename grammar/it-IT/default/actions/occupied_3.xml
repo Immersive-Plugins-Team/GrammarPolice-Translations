@@ -5,13 +5,13 @@
         <string>occupied</string>
     </Commands>
     <Phrases>
-        <string>l’unità è stata impegnata una volta, richiedo supporto aggiuntivo</string>
-        <string>l’unità è stata impegnata due volte, richiedo supporto aggiuntivo</string>
-        <string>l’unità è stata impegnata tre volte, richiedo supporto aggiuntivo</string>
-        <string>impegnato una volta, richiedo rinforzi</string>
-        <string>impegnato due volte, richiedo rinforzi</string>
-        <string>impegnato tre volte, richiedo rinforzi</string>
-        <string>impegnato quattro volte</string>
+        <string>occupato una volta richiedo addizionali</string>
+        <string>occupato due volta richiedo addizionalil</string>
+        <string>occupato tre volta richiedo addizionali</string>
+        <string>occupato una volta richiedo rinforzi</string>
+        <string>occupato due volta richiedo rinforzi</string>
+        <string>occupato tre volta richiedo rinforzi</string>
+        <string>occupato 4 volte</string>
     </Phrases>	
     <Target>GrammarPolice.Actions.Status.TrafficStop</Target>
     <Parameters>

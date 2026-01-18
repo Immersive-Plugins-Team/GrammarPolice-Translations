@@ -3,7 +3,7 @@
     <Name>panic</Name>
     <Action>panic</Action>
     <Phrases>
-        <string>codice novanta nove</string>
-        <string>colpi sparati</string>
+        <string>codice novantanove</string>
+        <string>sparatoria</string>
     </Phrases>
 </Command>

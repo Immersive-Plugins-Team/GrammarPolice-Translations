@@ -3,8 +3,8 @@
     <Name>traffic_control_stop</Name>
     <Action>traffic_control_stop</Action>
     <Phrases>
-        <string>fermare tutto il traffico</string>
-        <string>fermare il traffico nelle vicinanze</string>
-        <string>fermare il traffico</string>
+        <string>ferma tutto il traffico</string>
+        <string>ferma il traffico vicino</string>
+        <string>ferma il traffico</string>
     </Phrases>
 </Command>

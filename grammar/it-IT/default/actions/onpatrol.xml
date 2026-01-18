@@ -5,7 +5,7 @@
         <string>status</string>
     </Commands>
     <Phrases>
-        <string>di pattuglia</string>
+        <string>in pattuglia</string>
     </Phrases>
     <Target>GrammarPolice.Actions.Status.OnPatrol</Target>
 </Action>
