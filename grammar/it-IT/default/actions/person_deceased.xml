@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Action>
+    <Name>person_deceased</Name>   
+    <Commands>
+        <string>advisory</string>
+    </Commands>
+    <Phrases>
+	    <string>morto</string>
+	    <string>decesso</string>
+		<string>sospetto morto</string>
+	    <string>persona morta</string>
+	    <string>agente morto</string>
+	    <string>civile morto</string>
+		<string>sospetto deceduto</string>
+	    <string>persona deceduta</string>
+	    <string>agente deceduto</string>
+	    <string>civile deceduto</string>
+    </Phrases>	
+    <Target>GrammarPolice.Actions.Advisory.PersonDeceased</Target>
+</Action>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Command>
+    <Name>accept</Name>
+    <Action>accept</Action>
+    <Phrases>
+        <string>convergo</string>
+        <string>Lo controllo</string>
+        <string>in arrivo</string>
+        <string>rispondo</string>
+    </Phrases>
+</Command>

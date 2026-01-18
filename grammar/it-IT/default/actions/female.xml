@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Action>
+    <Name>female</Name>
+    <Commands>
+        <string>request</string>
+    </Commands>
+    <Phrases>
+        <string>donna</string>
+        <string>agente donna</string>
+    </Phrases>
+    <Target>GrammarPolice.Actions.Backup.Female</Target>
+</Action>

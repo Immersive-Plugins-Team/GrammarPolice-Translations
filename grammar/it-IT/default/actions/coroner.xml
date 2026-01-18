@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Action>
+    <Name>coroner</Name>
+    <Commands>
+        <string>request</string>
+    </Commands>
+    <Phrases>
+        <string>scentifica</string>
+        <string>R I S</string>
+    </Phrases>
+    <Target>GrammarPolice.Actions.Backup.Coroner</Target>
+</Action>

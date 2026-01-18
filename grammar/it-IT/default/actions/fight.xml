@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Action>
+    <Name>fight</Name>
+    <Commands>
+        <string>advisory</string>
+    </Commands>
+    <Phrases>
+        <string>rissa in corso</string>
+        <string>combattendo</string>
+    </Phrases>
+    <Target>GrammarPolice.Actions.Advisory.Fight</Target>
+</Action>

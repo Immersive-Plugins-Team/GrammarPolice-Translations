@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Command>
+    <Name>traffic_control_slow</Name>
+    <Action>traffic_control_slow</Action>
+    <Phrases>
+        <string>rallenta tutto il traffico</string>
+        <string>rallenta il traffico vicino</string>
+        <string>rallenta il trafico</string>
+    </Phrases>
+</Command>

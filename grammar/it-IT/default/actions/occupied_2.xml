@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Action>
+    <Name>occupied_2</Name>   
+    <Commands>
+        <string>occupied</string>
+    </Commands>
+    <Phrases>
+        <string>occupato una volta no addizionali</string>
+        <string>occupato due volte no addizionali</string>
+        <string>occupato tre volte no addizionali</string>
+        <string>occupato una volta no rinforzi</string>
+        <string>occupato due volta no rinforzi</string>
+        <string>occupato tre volta no rinforzi</string>
+    </Phrases>	
+    <Target>GrammarPolice.Actions.Status.TrafficStop</Target>
+    <Parameters>
+        <Parameter>
+            <Type>System.Int32</Type>
+            <Value>2</Value>
+        </Parameter>
+    </Parameters>
+</Action>

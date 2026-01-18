@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Action>
+    <Name>code3state</Name>
+    <Commands>
+        <string>request</string>
+    </Commands>
+    <Phrases>
+        <string>rinforzi statali</string>
+        <string>truppe statali</string>
+        <string>codice tre statale</string>
+        <string>codice tre rinforzi statali</string>
+        <string>tre statale</string>
+    </Phrases>
+    <Target>GrammarPolice.Actions.Backup.Code3State</Target>
+</Action>

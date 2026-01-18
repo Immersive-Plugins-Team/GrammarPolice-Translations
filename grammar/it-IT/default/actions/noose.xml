@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Action>
+    <Name>noose</Name>
+    <Commands>
+        <string>request</string>
+    </Commands>
+    <Phrases>
+        <string>unita nocs</string>
+        <string>nocs</string>
+    </Phrases>
+    <Target>GrammarPolice.Actions.Backup.Noose</Target>
+</Action>

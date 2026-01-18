@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Action>
+    <Name>occupied_3</Name>   
+    <Commands>
+        <string>occupied</string>
+    </Commands>
+    <Phrases>
+        <string>occupato una volta richiedo addizionali</string>
+        <string>occupato due volta richiedo addizionalil</string>
+        <string>occupato tre volta richiedo addizionali</string>
+        <string>occupato una volta richiedo rinforzi</string>
+        <string>occupato due volta richiedo rinforzi</string>
+        <string>occupato tre volta richiedo rinforzi</string>
+        <string>occupato 4 volte</string>
+    </Phrases>	
+    <Target>GrammarPolice.Actions.Status.TrafficStop</Target>
+    <Parameters>
+        <Parameter>
+            <Type>System.Int32</Type>
+            <Value>3</Value>
+        </Parameter>
+    </Parameters>
+</Action>

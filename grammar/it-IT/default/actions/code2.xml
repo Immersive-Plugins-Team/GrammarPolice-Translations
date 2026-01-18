@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Action>
+    <Name>code2</Name>
+    <Commands>
+        <string>request</string>
+    </Commands>
+    <Phrases>
+        <string>codice due</string>
+        <string>codice due rinforzi</string>
+        <string>due</string>
+    </Phrases>
+    <Target>GrammarPolice.Actions.Backup.Code2</Target>
+</Action>

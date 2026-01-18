@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Command>
+    <Name>advisory</Name>
+    <Phrases>
+        <string>ho</string>
+        <string>ho il</string>
+        <string>ho un</string>
+        <string>ho una</string>
+        <string>ho uno</string>
+        <string>ho due</string>
+        <string>ho tre</string>
+        <string>ho quatro</string>
+
+        <string>abbiamo</string>
+        <string>abbiamo la</string>
+        <string>abbiamo un</string>
+        <string>abbiamo una</string>
+        <string>abbiamo uno</string>
+        <string>abbiamo due</string>
+        <string>abbiamo tre</string>
+        <string>abbiamo quatro</string>
+      
+        <string>il sospetto e</string>
+        <string>il civile e</string>
+    </Phrases>
+</Command>
