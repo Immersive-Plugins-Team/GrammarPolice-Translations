@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<Command>
-    <Name>cancel_checks</Name>
-    <Action>cancel_checks</Action>
-    <Phrases>
-        <string>annulla</string>
-        <string>annulla situazione normale</string>
-    </Phrases>
-</Command>

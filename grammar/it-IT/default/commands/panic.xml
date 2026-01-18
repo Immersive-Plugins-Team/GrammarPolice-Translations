@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<Command>
-    <Name>panic</Name>
-    <Action>panic</Action>
-    <Phrases>
-        <string>codice novanta nove</string>
-        <string>colpi sparati</string>
-    </Phrases>
-</Command>

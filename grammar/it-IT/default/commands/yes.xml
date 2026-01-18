@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<Command>
-    <Name>yes</Name>
-    <Action>yes</Action>
-    <Phrases>
-        <string>sì</string>
-        <string>affermativo</string>
-    </Phrases>
-</Command>
